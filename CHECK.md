@@ -1,9 +1,9 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:white_check_mark: EXTREME_LANGUAGE key exists  
-:white_check_mark: NewsAPI respone fine  
-:white_check_mark: NewsAPI status fine  
-:white_check_mark: NewsAPI results found  
+:no_entry: EXTREME_LANGUAGE **missing**:  
+1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/jens-news/hungarianExtremes/settings/secrets/actions  
+   * Name:  **EXTREME_LANGUAGE**   
+   * Value: **Your language code here**   
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :white_check_mark: EXTREME_GH_TOKEN working  
@@ -40,16 +40,23 @@
 ---
   
 ### RapidAPI: Google-News-22  
-:white_check_mark: Google-News-22 respone fine  
-:white_check_mark: Google-News-22 status fine  
-:white_check_mark: Google-News-22 results found  
+:no_entry: Google-News-22 respone **failed**  
+Subscribe to Google-News-22 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/google-news22  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
+If it doesn't help, **recheck** the registration and the key entry:  
+1. Please register at https://rapidapi.com/auth/sign-up  
+2. Copy your API key from (**X-RapidAPI-Key**) from the [same site](https://rapidapi.com/bonaipowered/api/google-news22)  
+3. Assign the API key as (new?) organization secret or edit it at https://github.com/organizations/jens-news/settings/secrets/actions  
+   * Name:  **RAPIDAPI_KEY**   
+   * Value: **Your key here**   
 
 ---
   
 ### RapidAPI: News-API-14  
-:white_check_mark: News-API-14 respone fine  
-:white_check_mark: News-API-14 status fine  
-:white_check_mark: News-API-14 results found  
+:no_entry: News-API-14 respone **failed**  
+Maybe retry later...?  
 
 ---
   
@@ -86,8 +93,11 @@
   
 ### RapidAPI: Text-Translator-2  
 :white_check_mark: Text-Translator-2 respone fine  
-:white_check_mark: Text-Translator-2 status fine  
-:white_check_mark: Text-Translator-2 results found  
+:no_entry: Text-Translator-2 status **failed**:  
+Subscribe to Text-Translator-2 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/dickyagustin/api/text-translator2  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
 
 ---
   
@@ -99,16 +109,11 @@
 ---
   
 ### RapidAPI: Multi-Traduction-Translate  
-:white_check_mark: Multi-Traduction-Translate respone fine  
-:white_check_mark: Multi-Traduction-Translate status fine  
-:white_check_mark: Multi-Traduction-Translate results found  
+:no_entry: Multi-Traduction-Translate respone **failed**  
+Maybe retry later...?  
 
 ---
   
 ### RapidAPI: Deepl-Translator-4  
-:white_check_mark: Deepl-Translator-4 respone fine  
-:no_entry: Deepl-Translator-4 status **failed**:  
-Subscribe to Deepl-Translator-4 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:no_entry: Deepl-Translator-4 respone **failed**  
+Maybe retry later...?  
