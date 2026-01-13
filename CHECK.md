@@ -1,9 +1,6 @@
 # EXTREMES  
 ### EXTREME_LANGUAGE  
-:no_entry: EXTREME_LANGUAGE **missing**:  
-1. Assign the language code (i.e. 'en', 'de') as new repository secret at https://github.com/jens-news/hungarianExtremes/settings/secrets/actions  
-   * Name:  **EXTREME_LANGUAGE**   
-   * Value: **Your language code here**   
+:white_check_mark: EXTREME_LANGUAGE key exists (hu)  
 ### EXTREME_GH_TOKEN  
 :white_check_mark: EXTREME_GH_TOKEN exists  
 :white_check_mark: EXTREME_GH_TOKEN working  
@@ -40,7 +37,8 @@
 ---
   
 ### RapidAPI: Google-News-22  
-:no_entry: Google-News-22 respone **failed**  
+:white_check_mark: Google-News-22 respone fine  
+:no_entry:  Google-News-22 status **failed**:  
 Subscribe to Google-News-22 API:  
 1. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/google-news22  
 2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
@@ -55,8 +53,9 @@ If it doesn't help, **recheck** the registration and the key entry:
 ---
   
 ### RapidAPI: News-API-14  
-:no_entry: News-API-14 respone **failed**  
-Maybe retry later...?  
+:white_check_mark: News-API-14 respone fine  
+:white_check_mark: News-API-14 status fine  
+:white_check_mark: News-API-14 results found  
 
 ---
   
@@ -109,11 +108,16 @@ Subscribe to Text-Translator-2 API:
 ---
   
 ### RapidAPI: Multi-Traduction-Translate  
-:no_entry: Multi-Traduction-Translate respone **failed**  
-Maybe retry later...?  
+:white_check_mark: Multi-Traduction-Translate respone fine  
+:white_check_mark: Multi-Traduction-Translate status fine  
+:white_check_mark: Multi-Traduction-Translate results found  
 
 ---
   
 ### RapidAPI: Deepl-Translator-4  
-:no_entry: Deepl-Translator-4 respone **failed**  
-Maybe retry later...?  
+:white_check_mark: Deepl-Translator-4 respone fine  
+:no_entry: **Not** subscribed to Deepl-Translator-4  
+Subscribe to Deepl-Translator-4 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
