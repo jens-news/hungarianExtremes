@@ -67,7 +67,9 @@ keywordsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 keywordsDF = keywordsDF.drop(columns = ['language'])
 '''
 
-oldLocationsDf = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',')
+oldLocationsDf = pd.DataFrame(None)
+if(os.path.exists(DATA_PATH / 'csv' / 'sentiments_locations.csv')):
+  oldLocationsDf = pd.read_csv(DATA_PATH / 'csv' / 'sentiments_locations.csv', delimiter=',')
 
 newsDf = getNewsDF()
 print(newsDf)   
@@ -87,7 +89,7 @@ for index, column in newsDf.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.en)
+    quote = str(column['en'])
     blob = TextBlob(quote)
     newsDf.loc[newsDf['url'] == column['url'], 'subjectivity'] = blob.sentiment.subjectivity
     newsDf.loc[newsDf['url'] == column['url'], 'sentiment'] = blob.sentiment.polarity
@@ -171,7 +173,7 @@ if(geonamesKey == 'demo_demo_123'):
 print(['foundGeonames',foundGeonames])
 #foundGeonames = True
 
-def inqGeonamesByNameAndLanguage(df, phrase, lang):
+def inqGeonamesByNameAndLanguage(df, index, phrase, lang):
     gn = geocoder.geonames(phrase, lang=lang, key=geonamesKey)
     print([phrase,gn,gn.geonames_id]) 
     if(gn.geonames_id):  
@@ -180,7 +182,7 @@ def inqGeonamesByNameAndLanguage(df, phrase, lang):
       df.loc[index,'longitude'] = float(gn.lng)
       df.loc[index,'geotype'] = gn.feature_class
       ##df.loc[index,'country'] = gn.country  #localized!
-      gne = geocoder.geonames(phrase, lang='en', key=geonamesKey)
+      gne = geocoder.geonames(phrase, lang=lang, key=geonamesKey)
       if(gne.country):
         df.loc[index,'country'] = gne.country
         print(gne.country)
@@ -243,7 +245,7 @@ def enrichFromGeonames(df):
         phrase = str(column.phrase)
         if(str(column.geonames) == '-1'):
           print('things to do')
-          (df, lat, lng, gnId) = inqGeonamesByNameAndLanguage(df, phrase, lang)
+          (df, lat, lng, gnId) = inqGeonamesByNameAndLanguage(df, index, phrase, lang)
           if(gnId):  
             Coords = getCoordsByLatAndLng(lat,lng, phrase)
             df = getIpccByCoords(df, index, Coords)
@@ -491,8 +493,8 @@ for index, column in objNewsDF.iterrows():
     i += 1
     if(i % 50 == 0):
         print(i)
-    quote = str(column.en)
-    lang = 'en' #column.language 
+    quote = str(column['en'])
+    lang = 'en' #NOT column.language !
     #quote = str(column.title)+'. ' +str(column.description)
     blob = TextBlob(quote)
     for sentence in blob.sentences:
