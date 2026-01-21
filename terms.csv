@@ -1,14 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'cc4e03d468',extremes,Fog,#d60d2b,wmo,köd déli alföldi,2026-01-15T12:14:00+00:00,Hungary,0.7717113722090445,0,1,hu,WCE,Europe
 '0308bedb90',extremes,Fog,#d60d2b,wmo,köd montenegró,2025-12-07T03:47:00+00:00,Montenegro,0.759679160511574,2,2,hu,MED,Europe
 '643f9779e7',extremes,Snow&Ice,#d60d2b,wmo,fagy Magyarország,2026-01-15T12:14:00+00:00,Hungary,0.750818445302832,1,2,hu,WCE,Europe
 '1a26ac2d2a',extremes,Snow&Ice,#d60d2b,wmo,hó szlovákia,2026-01-15T10:56:00+00:00,Slovakia,0.7403478158558108,1,2,hu,WCE,Europe
 'e3420d879b',extremes,Snow&Ice,#d60d2b,wmo,fagy Közép-Magyarországon,2026-01-15T12:14:00+00:00,Hungary,0.7313001495748903,1,2,hu,WCE,Europe
 '8fd21a4b8e',extremes,Fog,#d60d2b,wmo,köd Nyugat-Dunántúl,2026-01-15T12:14:00+00:00,Hungary,0.7062667034509047,1,1,hu,WCE,Europe
-'da4ecf5846',extremes,Snow&Ice,#d60d2b,wmo,hó revúca,2026-01-15T10:56:00+00:00,Slovakia,0.6949600840322129,0,1,hu,WCE,Europe
 '8091a140d2',extremes,Fog,#d60d2b,wmo,köd magyarország,2026-01-15T10:56:00+00:00,Hungary,0.6562769687486112,1,1,hu,WCE,Europe
 'c144c82caa',extremes,Snow&Ice,#d60d2b,wmo,jég északi nagy síkság,2026-01-15T12:14:00+00:00,Hungary,0.6557536664440177,1,1,hu,WCE,Europe
-'cd96863b3a',extremes,Fog,#d60d2b,wmo,köd északi nagy síkság,2026-01-18T03:57:00+00:00,Hungary,0.6156024865637676,0,1,hu,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,szárazság románia,2026-01-15T10:57:00+00:00,Romania,0.6036528263360478,1,1,hu,WCE,Europe
 '87ce5fed51',extremes,Drought,#edc291,edo,szárazság Montenegróban,2026-01-15T10:57:00+00:00,Montenegro,0.6034700242133209,1,1,hu,MED,Europe
 'a633585cb8',extremes,Snow&Ice,#d60d2b,wmo,fagy északi nagy síkság,2026-01-19T04:03:00+00:00,Hungary,0.5992006215428765,0,1,hu,WCE,Europe
@@ -18,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2eda64a4ce',extremes,Snow&Ice,#d60d2b,wmo,jég krupina,2026-01-15T10:56:00+00:00,Slovakia,0.5907209877046783,1,1,hu,WCE,Europe
 'bbfe3bda09',extremes,Snow&Ice,#d60d2b,wmo,fagyos Szlovákia,2026-01-15T10:56:00+00:00,Slovakia,0.5907208138461145,1,1,hu,WCE,Europe
 'cf2bc28245',extremes,Snow&Ice,#d60d2b,wmo,jég-nitra,2026-01-15T10:56:00+00:00,Slovakia,0.5907197121583881,1,1,hu,WCE,Europe
+'da4ecf5846',extremes,Snow&Ice,#d60d2b,wmo,hó revúca,2026-01-15T10:56:00+00:00,Slovakia,0.5907160714273809,1,1,hu,WCE,Europe
 'd633808697',extremes,Snow&Ice,#d60d2b,wmo,jég szerb,2026-01-15T10:56:00+00:00,Serbia,0.590714931295852,1,1,hu,MED,Europe
 '80e2d0ea61',extremes,Snow&Ice,#d60d2b,wmo,jég prešov,2026-01-15T10:56:00+00:00,Slovakia,0.5907147426742126,1,1,hu,WCE,Europe
 '3b70e30993',extremes,Snow&Ice,#d60d2b,wmo,hó vranov nad topľou,2026-01-15T10:56:00+00:00,Slovakia,0.5907130664883787,1,1,hu,WCE,Europe
@@ -67,6 +65,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ffc53170f3',extremes,Fog,#d60d2b,wmo,kontinentális és hegyvidéki köd,2026-01-20T03:56:00+00:00,Montenegro,0.5400884649676275,1,1,hu,MED,Europe
 '47ae4d3e20',extremes,Snow&Ice,#d60d2b,wmo,jég nyugat-szerbia,2026-01-18T03:57:00+00:00,Serbia,0.5264807638849474,1,1,hu,MED,Europe
 'c922e9f553',extremes,Snow&Ice,#d60d2b,wmo,hó nyugat-szerbia,2026-01-15T10:56:00+00:00,Serbia,0.5244135059799372,1,1,hu,MED,Europe
+'cd96863b3a',extremes,Fog,#d60d2b,wmo,köd északi nagy síkság,2026-01-18T03:57:00+00:00,Hungary,0.5234121285792025,1,1,hu,WCE,Europe
 'b2b49f6c67',extremes,Snow&Ice,#d60d2b,wmo,fagyos rimavská sobota,2026-01-15T10:56:00+00:00,Slovakia,0.502111281862945,2,1,hu,WCE,Europe
 '76fbe8d4b1',extremes,Snow&Ice,#d60d2b,wmo,fagy tvrdošín,2026-01-15T10:56:00+00:00,Slovakia,0.4267949406966069,3,1,hu,WCE,Europe
 '32ad90607d',extremes,Drought,#edc291,edo,szárazság szerb,2026-01-15T10:57:00+00:00,Serbia,0.3703048235341075,4,1,hu,MED,Europe
