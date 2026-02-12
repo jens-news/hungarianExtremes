@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4626801745',extremes,Drought,#edc291,edo,eső hiánya szerbia,2026-01-24T03:49:00+00:00,Serbia,0.5074734404335499,0,1,hu,MED,Europe
-'bca3aa10e0',extremes,Snow&Ice,#d60d2b,wmo,ice Martin,2026-01-25T04:06:00+00:00,Slovakia,0.5074107387521058,0,1,hu,WCE,Europe
 '6e12c530af',extremes,Snow&Ice,#d60d2b,wmo,hó Kelet-Szerbia,2026-02-12T04:37:00+00:00,Serbia,0.5071607756227869,0,1,hu,MED,Europe
 '2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-02-06T04:28:00+00:00,Austria,0.5063520816461748,0,1,hu,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,vihar austria,2026-02-03T04:27:00+00:00,Austria,0.505972845747484,0,1,hu,WCE,Europe
@@ -152,6 +150,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc3cd1fbc8',extremes,Snow&Ice,#d60d2b,wmo,frozing nové mesto nad váhom,2026-01-29T04:19:00+00:00,Slovakia,0.4317224697715405,1,1,hu,WCE,Europe
 '917f1af717',extremes,Fog,#d60d2b,wmo,köd banat,2026-01-20T03:56:00+00:00,Serbia,0.4316429017251523,2,1,hu,MED,Europe
 '9891fcebe3',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-02-11T04:42:00+00:00,Slovakia,0.4314929761021037,1,1,hu,WCE,Europe
+'bca3aa10e0',extremes,Snow&Ice,#d60d2b,wmo,ice Martin,2026-01-25T04:06:00+00:00,Slovakia,0.43144914293929,1,1,hu,WCE,Europe
+'4626801745',extremes,Drought,#edc291,edo,eső hiánya szerbia,2026-01-24T03:49:00+00:00,Serbia,0.4313524243685174,1,1,hu,MED,Europe
 '6cf0d34fac',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Szerbia,2026-01-25T04:06:00+00:00,Serbia,0.4310982363340415,2,1,hu,MED,Europe
 '4b4f24d2af',extremes,Storm,#b3b2b1,wmo,vihar az adriai tengerparton,2026-01-21T03:56:00+00:00,Montenegro,0.4293735229871092,2,1,hu,MED,Europe
 '456d5e73ec',extremes,Snow&Ice,#d60d2b,wmo,jég közép-magyarországi,2026-02-03T04:27:00+00:00,Hungary,0.428202302410308,2,1,hu,WCE,Europe
