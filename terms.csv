@@ -1,6 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'643f9779e7',extremes,Snow&Ice,#d60d2b,wmo,fagy Magyarország,2026-02-10T04:43:00+00:00,Hungary,0.6330394834602242,1,1,hu,WCE,Europe
-'9d4b386fea',extremes,Snow&Ice,#d60d2b,wmo,fagyos korneuburg,2026-01-26T04:09:00+00:00,Austria,0.4993600200523433,0,1,hu,WCE,Europe
+'643f9779e7',extremes,Snow&Ice,#d60d2b,wmo,fagy Magyarország,2026-02-10T04:43:00+00:00,Hungary,0.5695837109411905,2,1,hu,WCE,Europe
 'b902f85154',extremes,Snow&Ice,#d60d2b,wmo,ice pezinok,2026-01-28T03:56:00+00:00,Slovakia,0.4990035053232142,0,1,hu,WCE,Europe
 'e348639dfc',extremes,Precipitation,#d60d2b,wmo,szakadó eső kosovo i metohija,2026-01-25T04:06:00+00:00,Serbia,0.498663756581909,0,1,hu,MED,Europe
 '479259504e',extremes,Snow&Ice,#d60d2b,wmo,fagy Bardejov,2026-01-28T03:56:00+00:00,Slovakia,0.4979894077237323,0,1,hu,WCE,Europe
@@ -195,6 +194,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ce1a1534bd',extremes,Fog,#d60d2b,wmo,köd rožňava,2026-01-25T04:06:00+00:00,Slovakia,0.4250805601217459,2,1,hu,WCE,Europe
 '7ef23d7ccc',extremes,Snow&Ice,#d60d2b,wmo,jég klagenfurti föld,2026-01-26T04:09:00+00:00,Austria,0.424880304026657,1,1,hu,WCE,Europe
 '7aae4ff876',extremes,Fog,#d60d2b,wmo,köd prešov,2026-01-17T03:44:00+00:00,Slovakia,0.4246013610205996,2,1,hu,WCE,Europe
+'9d4b386fea',extremes,Snow&Ice,#d60d2b,wmo,fagyos korneuburg,2026-01-26T04:09:00+00:00,Austria,0.4244560170444918,1,1,hu,WCE,Europe
 'd0e5abbf09',extremes,Fog,#d60d2b,wmo,köd snina,2026-01-17T03:44:00+00:00,Slovakia,0.4240682567877202,2,1,hu,WCE,Europe
 'ad2b80d7aa',extremes,Fog,#d60d2b,wmo,köd revúca,2026-01-25T04:06:00+00:00,Slovakia,0.4235725221512796,2,1,hu,WCE,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-01-19T04:03:00+00:00,Hungary,0.4234969154609321,2,1,hu,WCE,Europe
@@ -512,5 +512,3 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '95b2881221',extremes,Precipitation,#d60d2b,random,légköri folyó,2026-01-15T10:20:00+00:00,,0.2787094304900732,2,1,hu,,
 'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekord hideg,2026-01-15T10:20:00+00:00,,0.2345501125718036,1,1,hu,,
 '45480a05ce',extremes,Tropical Cyclone,#4f4f4f,random,tájfun,2026-01-15T10:20:00+00:00,,0.2176841951268866,1,1,hu,,
-'b6cef22543',extremes,Drought,#edc291,random,vízkorlátozás,2026-01-15T10:20:00+00:00,,0.1854655091602704,2,1,hu,,
-'ccefefc59e',extremes,Drought,#edc291,random,villámszárazság,2026-01-15T10:20:00+00:00,,0.1851009759736822,2,1,hu,,
