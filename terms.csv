@@ -1,6 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'93312f4a33',extremes,Storm,#b3b2b1,wmo,viharhullám magyarország,2026-02-15T04:35:00+00:00,Hungary,0.7064680734314996,0,1,hu,WCE,Europe
+'3fe36693de',extremes,Storm,#b3b2b1,wmo,viharhullám a Dunántúl déli részén,2026-02-15T04:35:00+00:00,Hungary,0.6127715024485091,0,1,hu,WCE,Europe
+'5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarországi,2026-02-15T04:35:00+00:00,Hungary,0.5958038823787759,0,1,hu,WCE,Europe
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-02-14T04:21:00+00:00,Hungary,0.5777944563226106,2,2,hu,WCE,Europe
 '643f9779e7',extremes,Snow&Ice,#d60d2b,wmo,fagy Magyarország,2026-02-10T04:43:00+00:00,Hungary,0.5695837109411905,2,1,hu,WCE,Europe
+'5a65d7d654',extremes,Snow&Ice,#d60d2b,wmo,ice srem,2026-02-15T04:35:00+00:00,Serbia,0.5347300220112925,0,1,hu,MED,Europe
+'10d184f0d1',extremes,Storm,#b3b2b1,wmo,viharhullám az adriai tengerpart középső,2026-02-15T04:35:00+00:00,Montenegro,0.5297770680250438,0,1,hu,MED,Europe
+'097e0f9d63',extremes,Storm,#b3b2b1,wmo,viharhullám dunajská streda,2026-02-15T04:35:00+00:00,Slovakia,0.5271768048952409,0,1,hu,WCE,Europe
+'2f783dae54',extremes,Storm,#b3b2b1,wmo,viharhullám zlaté moravce,2026-02-15T04:35:00+00:00,Slovakia,0.5183038772340842,0,1,hu,WCE,Europe
+'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge austria,2026-02-03T04:27:00+00:00,Austria,0.5163847550117823,0,1,hu,WCE,Europe
+'56d1db7f88',extremes,Snow&Ice,#d60d2b,wmo,fagyos Ausztria,2026-02-15T04:35:00+00:00,Austria,0.5115511881880488,0,1,hu,WCE,Europe
+'926706e02a',extremes,Storm,#b3b2b1,wmo,vihar komárno,2026-02-15T04:35:00+00:00,Slovakia,0.5115419583670456,0,1,hu,WCE,Europe
 '6fd7af5b15',extremes,Storm,#b3b2b1,wmo,vihar Nyugat-Dunántúl,2026-02-14T04:21:00+00:00,Hungary,0.5035974856722133,1,1,hu,WCE,Europe
 '6e3da61c03',extremes,Snow&Ice,#d60d2b,wmo,jéggalanta,2026-01-28T03:56:00+00:00,Slovakia,0.4945667600976557,0,1,hu,WCE,Europe
 '106359507b',extremes,Storm,#b3b2b1,wmo,vihar skalica,2026-01-26T04:09:00+00:00,Slovakia,0.4944634226912765,0,1,hu,WCE,Europe
@@ -226,7 +236,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6c43ea8d05',extremes,Snow&Ice,#d60d2b,wmo,fagyos lučenec,2026-01-27T03:58:00+00:00,Slovakia,0.4211382247783211,1,1,hu,WCE,Europe
 '74d40f0f7f',extremes,Fog,#d60d2b,wmo,köd Trnava,2026-01-26T04:09:00+00:00,Slovakia,0.4210885489085101,2,1,hu,WCE,Europe
 '62efa07aac',extremes,Storm,#b3b2b1,wmo,vihar banská bystrica,2026-02-04T04:21:00+00:00,Slovakia,0.4208950410598957,1,1,hu,WCE,Europe
-'720326cb52',extremes,Snow&Ice,#d60d2b,wmo,frost Brezno,2026-01-27T03:58:00+00:00,Slovakia,0.42088643308129153,1,1,hu,WCE,Europe
+'720326cb52',extremes,Snow&Ice,#d60d2b,wmo,frost Brezno,2026-01-27T03:58:00+00:00,Slovakia,0.4208864330812915,1,1,hu,WCE,Europe
 'f8145fc2f5',extremes,Cold Wave,#a7e9fa,wmo,hideghullám osztrák,2026-01-18T03:57:00+00:00,Austria,0.4204605170059554,2,1,hu,WCE,Europe
 '0cfcdc295e',extremes,Snow&Ice,#d60d2b,wmo,fagy Szlovákia,2026-01-15T10:56:00+00:00,Slovakia,0.4202937186612034,2,1,hu,WCE,Europe
 '6ed1a01c5f',extremes,Storm,#b3b2b1,wmo,vihar az adriai tengerpart középső,2026-02-01T04:41:00+00:00,Montenegro,0.4201164081701963,2,1,hu,MED,Europe
