@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '643f9779e7',extremes,Snow&Ice,#d60d2b,wmo,fagy Magyarország,2026-02-10T04:43:00+00:00,Hungary,0.5695837109411905,2,1,hu,WCE,Europe
 '39dd0129b1',extremes,Snow&Ice,#d60d2b,wmo,hó szerbia,2026-02-09T04:39:00+00:00,Serbia,0.5549831102272982,2,1,hu,MED,Europe
-'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,hó Ausztria,2026-02-15T04:35:00+00:00,Austria,0.517762575928413,0,1,hu,WCE,Europe
 'ccbdb3df2e',extremes,Storm,#b3b2b1,wmo,viharhullám Kelet-Szerbia,2026-02-15T04:35:00+00:00,Serbia,0.5109804885873132,0,1,hu,MED,Europe
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,viharhullám magyarország,2026-02-15T04:35:00+00:00,Hungary,0.5104231830542585,2,1,hu,WCE,Europe
 '4f3eea4766',extremes,Storm,#b3b2b1,wmo,viharlece,2026-02-14T04:21:00+00:00,Slovakia,0.5098593920222934,0,1,hu,WCE,Europe
@@ -92,6 +91,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd9e596d278',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-02-08T04:43:00+00:00,Austria,0.4416934075627386,1,1,hu,WCE,Europe
 '57b24ffc9f',extremes,Snow&Ice,#d60d2b,wmo,hó spišská nová ves,2026-01-22T03:59:00+00:00,Slovakia,0.441673814073212,1,1,hu,WCE,Europe
 'db06ce5fae',extremes,Snow&Ice,#d60d2b,wmo,fagy déli nagy síkság,2026-01-23T04:03:00+00:00,Hungary,0.4415826530437725,2,1,hu,WCE,Europe
+'c47d7a4f90',extremes,Snow&Ice,#d60d2b,wmo,hó Ausztria,2026-02-15T04:35:00+00:00,Austria,0.44084826453915105,1,1,hu,WCE,Europe
 'fc10bedec4',extremes,Snow&Ice,#d60d2b,wmo,fagy liptovský mikuláš,2026-01-30T04:21:00+00:00,Slovakia,0.4406743945793547,1,1,hu,WCE,Europe
 '359f2dbb62',extremes,Storm,#b3b2b1,wmo,viharhullám backa,2026-01-25T04:06:00+00:00,Serbia,0.4406027149341898,1,1,hu,MED,Europe
 'ac89ca690a',extremes,Precipitation,#d60d2b,wmo,záporeső detva,2026-01-26T04:09:00+00:00,Slovakia,0.4405752971196808,1,1,hu,WCE,Europe
