@@ -1,9 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'566ad039a7',extremes,Fog,#d60d2b,wmo,köd lučenec,2026-03-13T04:25:00+00:00,Slovakia,0.5915624289696475,0,1,hu,WCE,Europe
+'264992dbdd',extremes,Snow&Ice,#d60d2b,wmo,fagy Szerbia,2026-03-16T05:05:00+00:00,Serbia,0.5851281266742505,0,1,hu,MED,Europe
+'620cbb7a99',extremes,Fog,#d60d2b,wmo,köd poltár,2026-03-13T04:25:00+00:00,Slovakia,0.571698870594346,0,1,hu,WCE,Europe
+'0fe2a78a5d',extremes,Storm,#b3b2b1,wmo,vihar szlovákia,2026-03-14T04:22:00+00:00,Slovakia,0.5423574120775568,0,1,hu,WCE,Europe
+'6ca3443501',extremes,Snow&Ice,#d60d2b,wmo,fagy kosovo és metohija,2026-03-17T04:30:00+00:00,Serbia,0.5356732522550505,0,1,hu,MED,Europe
 'd633808697',extremes,Snow&Ice,#d60d2b,wmo,jég szerb,2026-03-16T05:05:00+00:00,Serbia,0.5146643907132044,1,1,hu,MED,Europe
 '2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-03-16T05:05:00+00:00,Austria,0.4661631337775302,1,1,hu,WCE,Europe
 '87ce5fed51',extremes,Drought,#edc291,edo,szárazság Montenegróban,2026-02-27T04:26:00+00:00,Montenegro,0.457460373799845,1,1,hu,MED,Europe
 '6d3d793865',extremes,Thunderstorm,#53785a,wmo,zivatar dél-dunántúl,2026-03-12T04:26:00+00:00,Hungary,0.4199833815942159,3,1,hu,WCE,Europe
-'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,áradás,2026-03-15T04:44:00+00:00,,0.41447089918289387,1,2,hu,,
+'b4cd8bfe1e',extremes,ice jam,#d60d2b,random,áradás,2026-03-15T04:44:00+00:00,,0.4144708991828938,1,2,hu,,
 '1839cb828d',extremes,Thunderstorm,#53785a,wmo,zivatar Közép-Magyarországon,2026-03-12T04:26:00+00:00,Hungary,0.4144605953466703,3,1,hu,WCE,Europe
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,viharhullám magyarország,2026-03-11T04:22:00+00:00,Hungary,0.413573254299263,3,1,hu,WCE,Europe
 'bad540a7cd',extremes,Snow&Ice,#d60d2b,wmo,fagyos pomoravlje,2026-02-17T04:31:00+00:00,Serbia,0.408611905965588,3,1,hu,MED,Europe
@@ -11,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,vihar románia,2026-02-17T04:31:00+00:00,Romania,0.4037340012569337,3,1,hu,WCE,Europe
 '308c7de514',extremes,Snow&Ice,#d60d2b,wmo,fagyos sumadija,2026-02-17T04:31:00+00:00,Serbia,0.3998613221932588,3,1,hu,MED,Europe
 'df7e5328ea',extremes,Cold Wave,#a7e9fa,random,hideg varázslat,2026-03-11T04:21:00+00:00,,0.3962410695084907,0,1,hu,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,legalacsonyabb minimum hőmérséklet,2026-03-13T04:24:00+00:00,,0.39598275920228493,0,1,hu,,
 '0f50f15ab2',extremes,Storm,#b3b2b1,wmo,viharhullám szerbia,2026-02-17T04:31:00+00:00,Serbia,0.3956722325216505,3,1,hu,MED,Europe
 'f9a3abc8c2',extremes,Landslide,#572c03,random,sárfolyás,2026-02-27T04:25:00+00:00,,0.3956313057596655,0,1,hu,,
 '4626801745',extremes,Drought,#edc291,edo,eső hiánya szerbia,2026-03-14T04:23:00+00:00,Serbia,0.3950559580070265,0,1,hu,MED,Europe
