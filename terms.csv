@@ -18,6 +18,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'df4df3c972',extremes,Snow&Ice,#d60d2b,wmo,hó románia,2026-02-21T04:18:00+00:00,Romania,0.3887393472199899,3,1,hu,WCE,Europe
 '9352246184',extremes,Storm,#b3b2b1,wmo,viharhullám pomoravlje,2026-03-09T04:31:00+00:00,Serbia,0.3824790919145077,3,1,hu,MED,Europe
 'a72c01a27c',extremes,Storm,#b3b2b1,wmo,vihar északi nagy síkság,2026-03-12T04:26:00+00:00,Hungary,0.3821156124208619,3,1,hu,WCE,Europe
+'443ff47617',extremes,Drought,#edc291,edo,szárazság szerbia,2026-03-08T04:24:00+00:00,Serbia,0.3812098328232289,0,1,hu,MED,Europe
 '770a616561',extremes,Snow&Ice,#d60d2b,wmo,jég észak-magyarországi,2026-02-18T04:34:00+00:00,Hungary,0.3809643412819246,3,1,hu,WCE,Europe
 'e69f6ccae1',extremes,Thunderstorm,#53785a,wmo,jégeső a dél-dunántúlon,2026-03-04T04:20:00+00:00,Hungary,0.3739746985908626,3,1,hu,WCE,Europe
 '5089d03739',extremes,Precipitation,#d60d2b,wmo,eső montenegró,2026-02-20T04:27:00+00:00,Montenegro,0.373086473206549,3,1,hu,MED,Europe
@@ -307,29 +308,38 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e7c5ecf78',extremes,Snow&Ice,#d60d2b,wmo,fagy vöcklabruck,2026-02-20T04:27:00+00:00,Austria,0.3182684870072615,2,1,hu,WCE,Europe
 'cb90ae9e3d',extremes,Snow&Ice,#d60d2b,wmo,hó steyr föld,2026-02-21T04:18:00+00:00,Austria,0.3181917651033156,2,1,hu,WCE,Europe
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,trópusi ciklon 25s,2026-03-06T04:21:00+00:00,,0.318165939019338,0,1,hu,SIO,Indian Ocean
+'403ad9bf40',extremes,Iceberg,#d60d2b,eonet,jéghegy b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,hu,WAN,Antarctica
 '680861b745',extremes,Snow&Ice,#d60d2b,wmo,hó Trnava,2026-02-19T04:32:00+00:00,Slovakia,0.3181436006280542,3,1,hu,WCE,Europe
 '2572465e60',extremes,Storm,#b3b2b1,wmo,vihar rimavská sobota,2026-02-20T04:27:00+00:00,Slovakia,0.31813793563452,3,1,hu,WCE,Europe
+'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,leghidegebb nap,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,hu,,
 '8c3db187a7',extremes,Snow&Ice,#d60d2b,wmo,fagyos wels stadt,2026-02-19T04:32:00+00:00,Austria,0.3177434926684937,2,1,hu,WCE,Europe
+'6be9519179',extremes,Cold Wave,#a7e9fa,random,hideghullám,2026-03-12T04:25:00+00:00,,0.3177164931791413,0,1,hu,,
 '000f6908b4',extremes,Snow&Ice,#d60d2b,wmo,hó oberpullendorf,2026-02-19T04:32:00+00:00,Austria,0.3175885395979979,2,1,hu,WCE,Europe
+'59b529f428',extremes,Thunderstorm,#53785a,random,jégeső,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,hu,,
 '3e72a6014f',extremes,Snow&Ice,#d60d2b,wmo,fagyos südoststeiermark,2026-02-20T04:27:00+00:00,Austria,0.3172871113891654,2,1,hu,WCE,Europe
 '2bb481bc31',extremes,Snow&Ice,#d60d2b,wmo,fagyos tulln,2026-02-20T04:27:00+00:00,Austria,0.3172447127378427,2,1,hu,WCE,Europe
 '670587c8c7',extremes,Snow&Ice,#d60d2b,wmo,hó krém föld,2026-02-19T04:32:00+00:00,Austria,0.3171822835789988,2,1,hu,WCE,Europe
 'b0ecdb08ea',extremes,Snow&Ice,#d60d2b,wmo,fagy baden,2026-02-21T04:18:00+00:00,Austria,0.3171585678560036,2,1,hu,WCE,Europe
 'e178c2c680',extremes,Snow&Ice,#d60d2b,wmo,ice freistadt,2026-02-20T04:27:00+00:00,Austria,0.3169393344715796,2,1,hu,WCE,Europe
+'047f353885',extremes,Heat Wave,#c40202,acwe,hőhullám Nyugat-Ausztrália,2026-03-11T04:23:00+00:00,Australia,0.3169154170414733,0,1,hu,CAU,Oceania
 '4b4f24d2af',extremes,Storm,#b3b2b1,wmo,vihar adriai partvidék,2026-02-19T04:32:00+00:00,Montenegro,0.3166458169982264,3,1,hu,MED,Europe
 '8d2b80ac76',extremes,Snow&Ice,#d60d2b,wmo,fagyasztó wien rudolfsheim fünfhaus,2026-02-20T04:27:00+00:00,Austria,0.3166099238223313,2,1,hu,WCE,Europe
 '8c28eb0b19',extremes,Snow&Ice,#d60d2b,wmo,hó leibnitz,2026-02-20T04:27:00+00:00,Austria,0.3166092584212856,2,1,hu,WCE,Europe
 'dbf4c82471',extremes,Snow&Ice,#d60d2b,wmo,jég wien forr,2026-02-20T04:27:00+00:00,Austria,0.3163812995331401,2,1,hu,WCE,Europe
+'eba0dae408',extremes,Iceberg,#d60d2b,eonet,jéghegy b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,hu,EAN,
 '1c5f0db6b6',extremes,Snow&Ice,#d60d2b,wmo,frost linz stadt,2026-02-21T04:18:00+00:00,Austria,0.3161879524991812,2,1,hu,WCE,Europe
 '1e57e7be8e',extremes,Snow&Ice,#d60d2b,wmo,snow wien leopoldstadt,2026-02-20T04:27:00+00:00,Austria,0.3161359307351552,2,1,hu,WCE,Europe
 '0c4b0cbf0b',extremes,Snow&Ice,#d60d2b,wmo,fagyos eisenstadt stadt,2026-02-20T04:27:00+00:00,Austria,0.316113113656481,2,1,hu,WCE,Europe
 'c111ed44d7',extremes,Snow&Ice,#d60d2b,wmo,fagy braunau am inn,2026-02-20T04:27:00+00:00,Austria,0.3159910145037007,2,1,hu,WCE,Europe
 '9f50f80ea2',extremes,Drought,#edc291,edo,szárazság Montenegróban,2026-02-19T04:32:00+00:00,Montenegro,0.3157802257372466,2,1,hu,MED,Europe
 'b3137524cc',extremes,Snow&Ice,#d60d2b,wmo,snow wien brigittenau,2026-02-19T04:32:00+00:00,Austria,0.315528523052391,2,1,hu,WCE,Europe
-'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekord hideg,2026-03-17T04:30:00+00:00,,0.31533279967904754,1,1,hu,,
+'6bfd73020a',extremes,Tropical Cyclone,#4f4f4f,eonet,trópusi ciklon 26s,2026-03-07T04:12:00+00:00,,0.31544182195904896,0,1,hu,NAU,Oceania
+'f3b91506ec',extremes,Cold Wave,#a7e9fa,random,rekord hideg,2026-03-17T04:30:00+00:00,,0.3153327996790475,1,1,hu,,
 '64058b2dc1',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-03-03T04:27:00+00:00,Hungary,0.3151534851953596,3,1,hu,WCE,Europe
 '0c420ec31a',extremes,Snow&Ice,#d60d2b,wmo,ice hollabrunn,2026-02-21T04:18:00+00:00,Austria,0.3150766013894578,2,1,hu,WCE,Europe
+'394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,trópusi ciklon 24p,2026-03-06T04:21:00+00:00,,0.31488274708128133,0,1,hu,NAU,Oceania
 '4744fd6a1e',extremes,Snow&Ice,#d60d2b,wmo,frost wien währing,2026-02-19T04:32:00+00:00,Austria,0.314818139229318,2,1,hu,WCE,Europe
+'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,urmil trópusi ciklon,2026-03-06T04:21:00+00:00,,0.314400593964061,0,1,hu,SPO,Pacific Ocean
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-03-13T04:25:00+00:00,Hungary,0.3139200402427629,5,1,hu,WCE,Europe
 '756731d51c',extremes,Snow&Ice,#d60d2b,wmo,zúzmarás,2026-02-20T04:27:00+00:00,Austria,0.3139126312858676,2,1,hu,WCE,Europe
 '8dc723c6e2',extremes,Snow&Ice,#d60d2b,wmo,fagyos hollabrunn,2026-02-19T04:32:00+00:00,Austria,0.3137916813727145,2,1,hu,WCE,Europe
