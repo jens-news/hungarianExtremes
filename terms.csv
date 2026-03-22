@@ -44,7 +44,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '714440b2b2',extremes,Cold Wave,#a7e9fa,wmo,fagyasztó wien mariahilf,2026-02-21T04:18:00+00:00,Austria,0.3595081567185995,2,1,hu,WCE,Europe
 'c144c82caa',extremes,Snow&Ice,#d60d2b,wmo,jég északi nagy síkság,2026-02-20T04:27:00+00:00,Hungary,0.359469827778189,3,1,hu,WCE,Europe
 '264992dbdd',extremes,Snow&Ice,#d60d2b,wmo,fagy Szerbia,2026-03-16T05:05:00+00:00,Serbia,0.359341810793824,3,1,hu,MED,Europe
-'053bb10e09',extremes,Heat Wave,#c40202,random,indiai nyár,2026-03-10T04:21:00+00:00,,0.3590809392481899,0,1,hu,,
 '8661bdfe17',extremes,Fog,#d60d2b,wmo,köd partizánske,2026-03-13T04:25:00+00:00,Slovakia,0.3590477690835131,3,1,hu,WCE,Europe
 '8bd5172e4a',extremes,Fog,#d60d2b,wmo,köd čadca,2026-03-13T04:25:00+00:00,Slovakia,0.3588260208158218,3,1,hu,WCE,Europe
 '65ce82ec95',extremes,Storm,#b3b2b1,wmo,vihar brezno,2026-02-24T04:31:00+00:00,Slovakia,0.3587199587774247,2,1,hu,WCE,Europe
@@ -349,6 +348,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a47d8d0227',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-03-05T04:24:00+00:00,Slovakia,0.3098408383145263,2,1,hu,WCE,Europe
 '985dfb1189',extremes,Drought,#edc291,edo,eső hiánya románia,2026-03-04T04:21:00+00:00,Romania,0.3078084590713862,3,1,hu,WCE,Europe
 '801eaff07c',extremes,Fog,#d60d2b,wmo,köd martin,2026-03-05T04:24:00+00:00,Slovakia,0.305583059041451,4,1,hu,WCE,Europe
+'053bb10e09',extremes,Heat Wave,#c40202,random,indiai nyár,2026-03-10T04:21:00+00:00,,0.3055188283609614,1,1,hu,,
 '6cd9ecca82',extremes,Precipitation,#d60d2b,wmo,eső délnyugat-szerbia,2026-03-04T04:20:00+00:00,Serbia,0.3050805188106449,4,1,hu,MED,Europe
 '42e30eba93',extremes,Cold Wave,#a7e9fa,wmo,hideghullám wien josefstadt,2026-02-21T04:18:00+00:00,Austria,0.3045928913215656,3,1,hu,WCE,Europe
 '32ad90607d',extremes,Drought,#edc291,edo,szárazság szerb,2026-02-27T04:26:00+00:00,Serbia,0.3040368572089645,3,1,hu,MED,Europe
