@@ -37,7 +37,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80d727e09b',extremes,Fog,#d60d2b,wmo,köd považská bystrica,2026-03-16T05:05:00+00:00,Slovakia,0.3628183971143073,3,1,hu,WCE,Europe
 '2ffdc9dacb',extremes,Fog,#d60d2b,wmo,köd veľký krtíš,2026-02-22T04:30:00+00:00,Slovakia,0.3623582365691417,3,1,hu,WCE,Europe
 'd833fdc204',extremes,Fog,#d60d2b,wmo,köd turčianske teplice,2026-03-05T04:24:00+00:00,Slovakia,0.3612219449433513,3,1,hu,WCE,Europe
-'e4d5bf1603',extremes,Drought,#edc291,edo,drought hungary,2026-03-16T05:05:00+00:00,Hungary,0.36111500465055124,2,1,hu,WCE,Europe
+'e4d5bf1603',extremes,Drought,#edc291,edo,drought hungary,2026-03-16T05:05:00+00:00,Hungary,0.3611150046505512,2,1,hu,WCE,Europe
 'd958269d93',extremes,Fog,#d60d2b,wmo,fog dolný kubín,2026-03-05T04:24:00+00:00,Slovakia,0.3607834279687567,3,1,hu,WCE,Europe
 '5960ea8e95',extremes,Snow&Ice,#d60d2b,wmo,jégkrémek földje,2026-02-18T04:34:00+00:00,Austria,0.3607573303372007,2,1,hu,WCE,Europe
 'a63de00dde',extremes,Cold Wave,#a7e9fa,wmo,hideghullám baden,2026-02-20T04:27:00+00:00,Austria,0.3607466532701267,2,1,hu,WCE,Europe
@@ -345,8 +345,18 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '649be03eb1',extremes,Storm,#b3b2b1,wmo,viharhullám 1. terület – mérsékelt,2026-03-15T04:45:00+00:00,Paraguay,0.3059457238844764,0,1,hu,SES,South-America
 '6fbc657cf9',extremes,Storm,#b3b2b1,wmo,vihar reg. 1 litoral,2026-03-17T04:30:00+00:00,Chile,0.3059117822330246,0,1,hu,SWS,South-America
 '24e7169f97',extremes,Storm,#b3b2b1,wmo,vihar Trinidad és Tobago,2026-03-04T04:20:00+00:00,Trinidad and Tobago,0.3058145105321779,0,1,hu,NSA,North-America
+'e431c24ff6',extremes,Heat Wave,#c40202,wmo,hőhullám chile,2026-03-17T04:30:00+00:00,Chile,0.3056438465953644,0,1,hu,SWS,South-America
+'4efc1e509e',extremes,Snow Avalanche,#deddd5,wmo,lavina franciaország,2026-03-17T04:30:00+00:00,France,0.3056138850173815,0,1,hu,WCE,Europe
 '801eaff07c',extremes,Fog,#d60d2b,wmo,köd martin,2026-03-05T04:24:00+00:00,Slovakia,0.305583059041451,4,1,hu,WCE,Europe
+'80d50b76c6',extremes,Storm,#b3b2b1,wmo,viharhullám Szaúd-Arábia,2026-03-18T04:36:00+00:00,Saudi Arabia,0.3055454582076882,0,1,hu,ARP,Asia
+'98db96b6de',extremes,Drought,#edc291,edo,szárazság litvánia,2026-03-06T04:21:00+00:00,Lithuania,0.30551984172517666,0,1,hu,WCE,Europe
 '053bb10e09',extremes,Heat Wave,#c40202,random,indiai nyár,2026-03-10T04:21:00+00:00,,0.3055188283609614,1,1,hu,,
+'416d23061d',extremes,Snow Avalanche,#deddd5,wmo,lavina jotunheimen,2026-03-17T04:30:00+00:00,Norway,0.305435834979508,0,1,hu,NEU,Europe
+'b40495b93f',extremes,Precipitation,#d60d2b,wmo,csapadék Új-Zéland,2026-03-06T04:21:00+00:00,New Zealand,0.30532133522744065,0,1,hu,NZ,Oceania
+'1ec98711db',extremes,Snow&Ice,#d60d2b,wmo,hó Izland,2026-03-22T04:33:00+00:00,Iceland,0.3053209185049032,0,1,hu,GIC,Europe
+'6c6666b2af',extremes,Precipitation,#d60d2b,wmo,csapadék argentina,2026-03-19T04:35:00+00:00,Argentina,0.3053072922849093,0,1,hu,SES,South-America
+'db0dc2e604',extremes,Precipitation,#d60d2b,wmo,csapadék seychelle-szigetek,2026-03-12T04:26:00+00:00,Seychelles,0.30528695238438586,0,1,hu,EIO,Africa
+'97bdbea9e0',extremes,Precipitation,#d60d2b,wmo,szakadó eső amazonía.,2026-03-04T04:20:00+00:00,Ecuador,0.30526378136888055,0,1,hu,NWS,South-America
 '6cd9ecca82',extremes,Precipitation,#d60d2b,wmo,eső délnyugat-szerbia,2026-03-04T04:20:00+00:00,Serbia,0.3050805188106449,4,1,hu,MED,Europe
 '32ad90607d',extremes,Drought,#edc291,edo,szárazság szerb,2026-02-27T04:26:00+00:00,Serbia,0.3040368572089645,3,1,hu,MED,Europe
 'cb43c2bb0b',extremes,Heat Wave,#c40202,random,legmelegebb év,2026-03-12T04:25:00+00:00,,0.3032437094496941,1,1,hu,,
@@ -358,5 +368,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'aa566ddc16',extremes,Fog,#d60d2b,wmo,köd komárno,2026-03-05T04:24:00+00:00,Slovakia,0.2982987521324622,4,1,hu,WCE,Europe
 '95b2881221',extremes,Precipitation,#d60d2b,random,légköri folyó,2026-02-28T04:07:00+00:00,,0.2981966620453958,1,1,hu,,
 'f1d3442696',extremes,Drought,#edc291,edo,aszály Ukrajna,2026-03-10T04:22:00+00:00,Ukraine,0.2978620753780917,1,1,hu,WCE,Europe
-'e160088f17',extremes,Drought,#edc291,edo,szárazság Ukrajnában,2026-03-18T04:36:00+00:00,Ukraine,0.28062939563614875,1,1,hu,WCE,Europe
+'e160088f17',extremes,Drought,#edc291,edo,szárazság Ukrajnában,2026-03-18T04:36:00+00:00,Ukraine,0.2806293956361487,1,1,hu,WCE,Europe
 '575fd8b455',extremes,Storm,#b3b2b1,wmo,viharhullám tvrdošín,2026-02-25T04:32:00+00:00,Slovakia,0.2726427371580575,4,1,hu,WCE,Europe
