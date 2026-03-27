@@ -6,6 +6,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9e43e11e23',extremes,Thunderstorm,#53785a,wmo,jégeső montenegró,2026-03-26T04:56:00+00:00,Montenegro,0.6654357709479127,0,1,hu,MED,Europe
 '72a14a324f',extremes,Snow&Ice,#d60d2b,wmo,jég délkelet-szerbia,2026-03-26T04:56:00+00:00,Serbia,0.657627320139418,0,1,hu,MED,Europe
 'eb1c33110c',extremes,Snow&Ice,#d60d2b,wmo,jég szlovákia,2026-03-25T04:33:00+00:00,Slovakia,0.6541841022372317,0,1,hu,WCE,Europe
+'dce5b3c7e0',extremes,Snow&Ice,#d60d2b,wmo,fagyos Szerbia,2026-03-27T04:57:00+00:00,Serbia,0.6495146331635709,0,1,hu,MED,Europe
 '6d9708bc85',extremes,Snow&Ice,#d60d2b,wmo,fagyos délnyugat-Szerbia,2026-03-26T04:56:00+00:00,Serbia,0.6425120932896855,0,1,hu,MED,Europe
 '6e2adf822f',extremes,Snow&Ice,#d60d2b,wmo,fagy Nyugat-Szerbia,2026-03-26T04:56:00+00:00,Serbia,0.639864619019146,0,1,hu,MED,Europe
 '49bd941a9a',extremes,Precipitation,#d60d2b,wmo,eső Magyarország,2026-03-25T04:33:00+00:00,Hungary,0.6285403284466413,0,1,hu,WCE,Europe
@@ -39,6 +40,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4822b6bd98',extremes,Snow&Ice,#d60d2b,wmo,fagyos tamsweg,2026-03-25T04:33:00+00:00,Austria,0.6067214490535587,0,1,hu,WCE,Europe
 '8f7962a661',extremes,Storm,#b3b2b1,wmo,viharhullám feldkirch,2026-03-25T04:33:00+00:00,Austria,0.6066292202679666,0,1,hu,WCE,Europe
 '0632a85904',extremes,Storm,#b3b2b1,wmo,vihar eisenstadt stadt,2026-03-25T04:33:00+00:00,Austria,0.6065704525901201,0,1,hu,WCE,Europe
+'98e8c9c840',extremes,Snow&Ice,#d60d2b,wmo,ice austria,2026-03-25T04:33:00+00:00,Austria,0.606388045149517,0,1,hu,WCE,Europe
+'a76459a195',extremes,Storm,#b3b2b1,wmo,viharhullám sankt veit an der glan,2026-03-25T04:33:00+00:00,Austria,0.6063814451909149,0,1,hu,WCE,Europe
+'c7dffd1264',extremes,Storm,#b3b2b1,wmo,viharhullám bruck an der leitha,2026-03-25T04:33:00+00:00,Austria,0.6063232350127207,0,1,hu,WCE,Europe
+'3b28e1fc4f',extremes,Storm,#b3b2b1,wmo,viharhullám wolfsberg,2026-03-25T04:33:00+00:00,Austria,0.6063149396234955,0,1,hu,WCE,Europe
+'5e3f328cdd',extremes,Storm,#b3b2b1,wmo,vihar voitsberg,2026-03-25T04:33:00+00:00,Austria,0.6061707796306811,0,1,hu,WCE,Europe
+'6fc7fa002d',extremes,Storm,#b3b2b1,wmo,viharhullám güssing,2026-03-25T04:33:00+00:00,Austria,0.6061587236300015,0,1,hu,WCE,Europe
+'7e5082b57e',extremes,Snow&Ice,#d60d2b,wmo,ice sankt johann im pongau,2026-03-25T04:33:00+00:00,Austria,0.6061452908093893,0,1,hu,WCE,Europe
+'ac1e22c404',extremes,Storm,#b3b2b1,wmo,viharhullám korneuburg,2026-03-25T04:33:00+00:00,Austria,0.6061192826655454,0,1,hu,WCE,Europe
+'6d8d7a16c8',extremes,Storm,#b3b2b1,wmo,vihar innsbruck stadt,2026-03-25T04:33:00+00:00,Austria,0.6058632737590376,0,1,hu,WCE,Europe
 '0ab5ac5913',extremes,Thunderstorm,#53785a,wmo,thunderstorm hungary,2026-03-17T04:30:00+00:00,Hungary,0.4717255979644337,2,1,hu,WCE,Europe
 'c2b3b4722a',extremes,Storm,#b3b2b1,wmo,viharhullám románia,2026-03-21T04:17:00+00:00,Romania,0.4515508258972494,2,1,hu,WCE,Europe
 'de3b36bacb',extremes,Thunderstorm,#53785a,random,zord időjárás,2026-03-04T04:20:00+00:00,,0.4483377331166905,1,2,hu,,
