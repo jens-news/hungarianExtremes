@@ -508,6 +508,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8e8e400e30',extremes,Fog,#d60d2b,wmo,fog spišská nová ves,2026-03-05T04:24:00+00:00,Slovakia,0.3573585903358698,3,1,hu,WCE,Europe
 'c249e84ebc',extremes,Cold Wave,#a7e9fa,wmo,hideghullám amstetten,2026-02-20T04:27:00+00:00,Austria,0.3572325911137594,2,1,hu,WCE,Europe
 'c3eb563a88',extremes,Thunderstorm,#53785a,wmo,jégeső Nyugat-Dunántúlon,2026-03-03T04:27:00+00:00,Hungary,0.3566537368629521,3,1,hu,WCE,Europe
+'1c38b19449',extremes,Storm,#b3b2b1,random,portálak,2026-04-18T04:56:00+00:00,,0.35620017651713576,0,1,hu,,
 'b902f85154',extremes,Snow&Ice,#d60d2b,wmo,ice pezinok,2026-02-20T04:27:00+00:00,Slovakia,0.3554889297447071,2,1,hu,WCE,Europe
 '83f313edf1',extremes,Fog,#d60d2b,wmo,köd szabinov,2026-03-13T04:25:00+00:00,Slovakia,0.3551751236414139,3,1,hu,WCE,Europe
 'f6900a3ffc',extremes,Fog,#d60d2b,wmo,köd gelnica,2026-03-05T04:24:00+00:00,Slovakia,0.3542435763367796,3,1,hu,WCE,Europe
@@ -619,7 +620,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'deaa4b70a0',extremes,Storm,#b3b2b1,random,homokvihar,2026-03-12T04:25:00+00:00,,0.3200266494312776,0,1,hu,,
 '9d9c23e3c3',extremes,Precipitation,#d60d2b,wmo,felhőszakadás sumadija,2026-03-05T04:24:00+00:00,Serbia,0.3199073592135674,3,1,hu,MED,Europe
 '84febdd06c',extremes,Thunderstorm,#53785a,random,zivatar,2026-03-17T04:30:00+00:00,,0.3195465128686315,2,2,hu,,
-'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,ismeretlen orlando,2026-04-17T05:16:00+00:00,United States,0.31949934454918827,0,1,hu,ENA,North-America
+'72e8366c4b',extremes,Unknown,#d60d2b,cmeter,ismeretlen orlando,2026-04-17T05:16:00+00:00,United States,0.3194993445491882,0,1,hu,ENA,North-America
 'c7fa466900',extremes,Cold Wave,#a7e9fa,acwe,hideg időszak új dél-wales,2026-03-30T05:12:00+00:00,Australia,0.3193784373370132,0,1,hu,EAU,Oceania
 'c759fb6bc1',extremes,Cold Wave,#a7e9fa,acwe,hideg időjárás victoria,2026-03-30T05:12:00+00:00,Australia,0.3193759020564724,0,1,hu,SAU,Oceania
 '77611cd126',extremes,Cold Wave,#a7e9fa,acwe,hideg idő Dél-Ausztrália,2026-03-30T05:12:00+00:00,Australia,0.3193418390364817,0,1,hu,CAU,Oceania
@@ -637,10 +638,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb90ae9e3d',extremes,Snow&Ice,#d60d2b,wmo,hó steyr föld,2026-02-21T04:18:00+00:00,Austria,0.3181917651033156,2,1,hu,WCE,Europe
 '67170bdf4e',extremes,Tropical Cyclone,#4f4f4f,eonet,trópusi ciklon 25s,2026-03-06T04:21:00+00:00,,0.318165939019338,0,1,hu,SIO,Indian Ocean
 '403ad9bf40',extremes,Iceberg,#d60d2b,eonet,jéghegy b22g,2026-03-06T04:21:00+00:00,Antarctica,0.3181610433122801,0,1,hu,WAN,Antarctica
+'ce3fbb6f5f',extremes,Cold Wave,#a7e9fa,acwe,hideg varázslat Ausztrália,2026-03-30T05:12:00+00:00,Australia,0.3179883897050091,0,1,hu,CAU,Oceania
 'ce37661cdd',extremes,Cold Wave,#a7e9fa,random,leghidegebb nap,2026-03-18T04:35:00+00:00,,0.3179232336051053,0,1,hu,,
 '6be9519179',extremes,Cold Wave,#a7e9fa,random,hideghullám,2026-03-12T04:25:00+00:00,,0.3177164931791413,0,1,hu,,
+'129d34107e',extremes,Tropical Cyclone,#4f4f4f,eonet,indusa trópusi ciklon,2026-04-03T04:42:00+00:00,,0.3177033728517205,0,1,hu,SIO,Indian Ocean
 '59b529f428',extremes,Thunderstorm,#53785a,random,jégeső,2026-03-05T04:23:00+00:00,,0.3174580437605405,0,1,hu,,
+'17a0d42ea4',extremes,Tropical Cyclone,#4f4f4f,eonet,maila trópusi ciklon,2026-04-05T05:01:00+00:00,,0.3174351646995071,0,1,hu,EPO,Pacific Ocean
 'b0ecdb08ea',extremes,Snow&Ice,#d60d2b,wmo,fagy baden,2026-02-21T04:18:00+00:00,Austria,0.3171585678560036,2,1,hu,WCE,Europe
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,bozóttűz,2026-04-18T04:56:00+00:00,,0.3170833250209666,0,1,hu,,
 'eba0dae408',extremes,Iceberg,#d60d2b,eonet,jéghegy b15ab,2026-03-06T04:21:00+00:00,,0.3162923766964107,0,1,hu,EAN,
 '1c5f0db6b6',extremes,Snow&Ice,#d60d2b,wmo,frost linz stadt,2026-02-21T04:18:00+00:00,Austria,0.3161879524991812,2,1,hu,WCE,Europe
 'dd6493c331',extremes,Storm,#b3b2b1,aidr,zivatar ausztrália,2026-03-19T04:35:00+00:00,Australia,0.3155352112691482,0,1,hu,EAU,Oceania
@@ -649,9 +654,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '64058b2dc1',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-03-03T04:27:00+00:00,Hungary,0.3151534851953596,3,1,hu,WCE,Europe
 '0c420ec31a',extremes,Snow&Ice,#d60d2b,wmo,ice hollabrunn,2026-02-21T04:18:00+00:00,Austria,0.3150766013894578,2,1,hu,WCE,Europe
 '394fc47879',extremes,Tropical Cyclone,#4f4f4f,eonet,trópusi ciklon 24p,2026-03-06T04:21:00+00:00,,0.3148827470812813,0,1,hu,NAU,Oceania
+'cf93c7cea9',extremes,Storm,#b3b2b1,aidr,vihar jégeső Sydney Új-Dél-Wales 2015,2026-04-01T05:13:00+00:00,,0.3147717011096181,0,1,hu,EAU,Oceania
 '0053afc92f',extremes,Volcano,#b83202,random,lahar,2026-02-27T04:25:00+00:00,,0.3146620739730586,1,1,hu,,
+'a275910137',extremes,Cold Wave,#a7e9fa,acwe,coldwave új dél-wales,2026-03-31T05:00:00+00:00,Australia,0.31461164576712486,0,1,hu,EAU,Oceania
+'0fce4685d1',extremes,Tropical Cyclone,#4f4f4f,eonet,trópusi ciklon vaianu,2026-04-06T05:11:00+00:00,,0.31458833134931774,0,1,hu,SPO,Pacific Ocean
 'ec6bc64ec7',extremes,Tropical Cyclone,#4f4f4f,eonet,urmil trópusi ciklon,2026-03-06T04:21:00+00:00,,0.314400593964061,0,1,hu,SPO,Pacific Ocean
 'ebe314dd99',extremes,Flood,#030ba1,aidr,heves esőzések és áradások queenslandben 2020. február,2026-03-01T04:35:00+00:00,Australia,0.3143903740790323,0,1,hu,EAU,Oceania
+'91377cc2a9',extremes,Drought,#edc291,acwe,szárazság Dél-Ausztrália,2026-03-31T05:00:00+00:00,Australia,0.31436903151030826,0,1,hu,SAU,Oceania
+'8c548a735e',extremes,Tropical Cyclone,#4f4f4f,eonet,sinlaku trópusi vihar,2026-04-11T04:34:00+00:00,,0.31424688903381603,0,1,hu,NPO,Pacific Ocean
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-03-13T04:25:00+00:00,Hungary,0.3139200402427629,5,1,hu,WCE,Europe
 '3fa143a609',extremes,Storm,#b3b2b1,random,porvihar,2026-03-09T04:30:00+00:00,,0.3139094201726292,0,1,hu,,
 '1405131905',extremes,Thunderstorm,#53785a,random,jégeső,2026-03-14T04:22:00+00:00,,0.3137906509588414,0,1,hu,,
