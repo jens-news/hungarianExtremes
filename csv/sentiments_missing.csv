@@ -1,125 +1,128 @@
 ,phrase,label,sentiment,subjectivity,language,count
 winter,winter,DATE,,,en,8.2
+Thursday,Thursday,DATE,,,en,4.4
 the beginning of next week,the beginning of next week,DATE,,,en,3.6999999999999997
+first,first,ORDINAL,,,en,3.6999999999999997
+Wednesday,Wednesday,DATE,,,en,3.6
 years,years,DATE,,,en,3.5
-Friday,Friday,DATE,,,en,3.4000000000000004
-Monday,Monday,DATE,,,en,3.4000000000000004
 the day,the day,DATE,,,en,3.4000000000000004
+Monday,Monday,DATE,,,en,3.4000000000000004
+Friday,Friday,DATE,,,en,3.4000000000000004
 American,American,NORP,,,en,3.4
+evening,evening,TIME,,,en,3.1
 Ukrainian,Ukrainian,NORP,,,en,2.8999999999999995
-two,two,CARDINAL,,,en,2.8
-the year,the year,DATE,,,en,2.8
-first,first,ORDINAL,,,en,2.8
-Sunday,Sunday,DATE,,,en,2.8
 Tuesday,Tuesday,DATE,,,en,2.8
-Saturday,Saturday,DATE,,,en,2.8
 Russian,Russian,NORP,,,en,2.8
-Wednesday,Wednesday,DATE,,,en,2.7
-Thursday,Thursday,DATE,,,en,2.6
+Sunday,Sunday,DATE,,,en,2.8
+two,two,CARDINAL,,,en,2.8
+Saturday,Saturday,DATE,,,en,2.8
+the year,the year,DATE,,,en,2.8
 the weekend,the weekend,DATE,,,en,2.5
-evening,evening,TIME,,,en,2.2
+today,today,DATE,,,en,2.2
 several days,several days,DATE,,,en,2.1
 Winter,Winter,DATE,,,en,2.0
 Russians,Russians,NORP,,,en,1.9
+millions,millions,CARDINAL,,,en,1.9
 European,European,NORP,,,en,1.9
 up to 75 percent,up to 75 percent,PERCENT,,,en,1.9
+9,9,CARDINAL,,,en,1.9
+Israeli,Israeli,NORP,,,en,1.9
+minus 20 degrees,minus 20 degrees,QUANTITY,,,en,1.9
 a few days,a few days,DATE,,,en,1.9
 second,second,ORDINAL,,,en,1.9
-9,9,CARDINAL,,,en,1.9
-millions,millions,CARDINAL,,,en,1.9
-Israeli,Israeli,NORP,,,en,1.9
 next week,next week,DATE,,,en,1.9
-minus 20 degrees,minus 20 degrees,QUANTITY,,,en,1.9
-The week,The week,DATE,,,en,1.8
 this week,this week,DATE,,,en,1.8
+The week,The week,DATE,,,en,1.8
 the week,the week,DATE,,,en,1.8
 20-30 centimeters,20-30 centimeters,QUANTITY,,,en,1.8
 The weekend,The weekend,DATE,,,en,1.6
 one,one,CARDINAL,,,en,1.6
-Ukrainians,Ukrainians,NORP,,,en,1.3
-the International Space Station,the International Space Station,FAC,,,en,1.3
-night,night,TIME,,,en,1.3
-today,today,DATE,,,en,1.3
-The day,The day,DATE,,,en,1.3
 six weeks,six weeks,DATE,,,en,1.3
-Serbian,Serbian,NORP,,,en,1.3
 more than a hundred,more than a hundred,CARDINAL,,,en,1.3
-French,French,NORP,,,en,1.0
-early spring,early spring,DATE,,,en,1.0
+the International Space Station,the International Space Station,FAC,,,en,1.3
+The day,The day,DATE,,,en,1.3
+Ukrainians,Ukrainians,NORP,,,en,1.3
+night,night,TIME,,,en,1.3
+Serbian,Serbian,NORP,,,en,1.3
+One,One,CARDINAL,,,en,1.0
+between minus 1 and plus,between minus 1 and plus,CARDINAL,,,en,1.0
+almost two weeks,almost two weeks,DATE,,,en,1.0
+between 15 and 19 degrees,between 15 and 19 degrees,CARDINAL,,,en,1.0
+daytime,daytime,DATE,,,en,1.0
+the evening,the evening,TIME,,,en,1.0
 the PERE Asia Summit 2026,the PERE Asia Summit 2026,EVENT,,,en,1.0
+February,February,DATE,,,en,1.0
+seconds,seconds,TIME,,,en,1.0
+the first weekend of the year,the first weekend of the year,DATE,,,en,1.0
 the middle of the week,the middle of the week,DATE,,,en,1.0
-more than a month's,more than a month's,DATE,,,en,1.0
-March 25,March 25,DATE,,,en,1.0
+4 degrees Celsius,4 degrees Celsius,QUANTITY,,,en,1.0
 five,five,CARDINAL,,,en,1.0
 hundreds,hundreds,CARDINAL,,,en,1.0
 the age of 44,the age of 44,DATE,,,en,1.0
+early spring,early spring,DATE,,,en,1.0
 Monday - the week,Monday - the week,DATE,,,en,1.0
-the second half of next week,the second half of next week,DATE,,,en,1.0
-"Almost 7,500","Almost 7,500",CARDINAL,,,en,1.0
-the second half of the week,the second half of the week,DATE,,,en,1.0
-the beginning of the week,the beginning of the week,DATE,,,en,1.0
-12-18 degrees,12-18 degrees,QUANTITY,,,en,1.0
-10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
-the past few days,the past few days,DATE,,,en,1.0
-seconds,seconds,TIME,,,en,1.0
-February,February,DATE,,,en,1.0
-a few years,a few years,DATE,,,en,1.0
-almost two weeks,almost two weeks,DATE,,,en,1.0
-Oscar,Oscar,WORK_OF_ART,,,en,1.0
-thirty-day,thirty-day,DATE,,,en,1.0
-almost two days,almost two days,DATE,,,en,1.0
-Early spring,Early spring,DATE,,,en,1.0
 almost hour by hour,almost hour by hour,TIME,,,en,1.0
-decades,decades,DATE,,,en,1.0
-One,One,CARDINAL,,,en,1.0
-between 15 and 20 degrees,between 15 and 20 degrees,QUANTITY,,,en,1.0
-Croatia Week,Croatia Week,EVENT,,,en,1.0
-between 15 and 19 degrees,between 15 and 19 degrees,CARDINAL,,,en,1.0
-four,four,CARDINAL,,,en,1.0
-daytime,daytime,DATE,,,en,1.0
-the evening,the evening,TIME,,,en,1.0
+three,three,CARDINAL,,,en,1.0
+almost two days,almost two days,DATE,,,en,1.0
+Oscar,Oscar,WORK_OF_ART,,,en,1.0
+a month and a half,a month and a half,DATE,,,en,1.0
+two days,two days,DATE,,,en,1.0
+up to a month's,up to a month's,DATE,,,en,1.0
+more than a month's,more than a month's,DATE,,,en,1.0
+the second half of next week,the second half of next week,DATE,,,en,1.0
 month,month,DATE,,,en,1.0
-the last week of February,the last week of February,DATE,,,en,1.0
-more than 1 million,more than 1 million,CARDINAL,,,en,1.0
-coming next week,coming next week,DATE,,,en,1.0
-six,six,CARDINAL,,,en,1.0
-4 degrees Celsius,4 degrees Celsius,QUANTITY,,,en,1.0
-the nights,the nights,DATE,,,en,1.0
+Croatia Week,Croatia Week,EVENT,,,en,1.0
+Christmas,Christmas,DATE,,,en,1.0
+four,four,CARDINAL,,,en,1.0
+thirty-day,thirty-day,DATE,,,en,1.0
+March 25,March 25,DATE,,,en,1.0
+the past few days,the past few days,DATE,,,en,1.0
+the second half of the week,the second half of the week,DATE,,,en,1.0
+between 15 and 20 degrees,between 15 and 20 degrees,QUANTITY,,,en,1.0
+the beginning of the week,the beginning of the week,DATE,,,en,1.0
+decades,decades,DATE,,,en,1.0
+French,French,NORP,,,en,1.0
+a few years,a few years,DATE,,,en,1.0
+"Almost 7,500","Almost 7,500",CARDINAL,,,en,1.0
 the first half of the next week,the first half of the next week,DATE,,,en,1.0
+12-18 degrees,12-18 degrees,QUANTITY,,,en,1.0
+minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
+up to,up to,QUANTITY,,,en,1.0
+Friday evening,Friday evening,TIME,,,en,1.0
+sixty years - several,sixty years - several,DATE,,,en,1.0
+Meters,Meters,CARDINAL,,,en,1.0
+early morning,early morning,TIME,,,en,1.0
+the second of February,the second of February,DATE,,,en,1.0
+$9 billion,$9 billion,MONEY,,,en,1.0
+two-thirds,two-thirds,CARDINAL,,,en,1.0
+between 10-20 centimeters,between 10-20 centimeters,QUANTITY,,,en,1.0
+Yesterday,Yesterday,DATE,,,en,1.0
 tomorrow,tomorrow,DATE,,,en,1.0
 this weekend,this weekend,DATE,,,en,1.0
 the night,the night,TIME,,,en,1.0
-Facebook,Facebook,PRODUCT,,,en,1.0
-Siberian,Siberian,NORP,,,en,1.0
-this morning,this morning,TIME,,,en,1.0
-Christmas,Christmas,DATE,,,en,1.0
-10-20 centimeters,10-20 centimeters,QUANTITY,,,en,1.0
-three,three,CARDINAL,,,en,1.0
-2026,2026,DATE,,,en,1.0
-overnight,overnight,TIME,,,en,1.0
 a few days ago,a few days ago,DATE,,,en,1.0
-Yesterday,Yesterday,DATE,,,en,1.0
-between 10-20 centimeters,between 10-20 centimeters,QUANTITY,,,en,1.0
-two-thirds,two-thirds,CARDINAL,,,en,1.0
-$9 billion,$9 billion,MONEY,,,en,1.0
-the second of February,the second of February,DATE,,,en,1.0
-early morning,early morning,TIME,,,en,1.0
-Meters,Meters,CARDINAL,,,en,1.0
+Siberian,Siberian,NORP,,,en,1.0
+six,six,CARDINAL,,,en,1.0
+overnight,overnight,TIME,,,en,1.0
+tonight,tonight,TIME,,,en,1.0
+10-20 centimeters,10-20 centimeters,QUANTITY,,,en,1.0
+10 degrees Celsius,10 degrees Celsius,QUANTITY,,,en,1.0
+Christmas Day,Christmas Day,DATE,,,en,1.0
+the last week of February,the last week of February,DATE,,,en,1.0
+Early spring,Early spring,DATE,,,en,1.0
+coming next week,coming next week,DATE,,,en,1.0
+the nights,the nights,DATE,,,en,1.0
+2026,2026,DATE,,,en,1.0
 the past fifteen years,the past fifteen years,DATE,,,en,1.0
 both days,both days,DATE,,,en,1.0
-the first weekend of the year,the first weekend of the year,DATE,,,en,1.0
-between minus 1 and plus,between minus 1 and plus,CARDINAL,,,en,1.0
+Facebook,Facebook,PRODUCT,,,en,1.0
+this morning,this morning,TIME,,,en,1.0
 this year,this year,DATE,,,en,1.0
-tonight,tonight,TIME,,,en,1.0
+more than 1 million,more than 1 million,CARDINAL,,,en,1.0
 recent weeks,recent weeks,DATE,,,en,1.0
 This winter,This winter,DATE,,,en,1.0
 40 centimeters,40 centimeters,QUANTITY,,,en,1.0
 recent days,recent days,DATE,,,en,1.0
 30 centimeters,30 centimeters,QUANTITY,,,en,1.0
 15 degrees,15 degrees,QUANTITY,,,en,1.0
-Christmas Day,Christmas Day,DATE,,,en,1.0
-minus 15 degrees,minus 15 degrees,QUANTITY,,,en,1.0
-up to,up to,QUANTITY,,,en,1.0
-Friday evening,Friday evening,TIME,,,en,1.0
-sixty years - several,sixty years - several,DATE,,,en,1.0
-up to a month's,up to a month's,DATE,,,en,1.0
+up to a month and a half,up to a month and a half,DATE,,,en,1.0
