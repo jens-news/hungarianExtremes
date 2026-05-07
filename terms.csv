@@ -1,17 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'308c7de514',extremes,Snow&Ice,#d60d2b,wmo,fagyos sumadija,2026-05-04T05:50:00+00:00,Serbia,0.6100182097622675,0,1,hu,MED,Europe
-'bd0cb2ff1a',extremes,Snow&Ice,#d60d2b,wmo,fagyos myjava,2026-04-20T05:27:00+00:00,Slovakia,0.5996942935910532,0,1,hu,WCE,Europe
-'8f4d57045d',extremes,Storm,#b3b2b1,wmo,viharhullám déli nagy síkság,2026-05-06T05:43:00+00:00,Hungary,0.5969041007981287,0,1,hu,WCE,Europe
-'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-05-07T05:46:00+00:00,Hungary,0.595917161564235,0,1,hu,WCE,Europe
-'6ca3443501',extremes,Snow&Ice,#d60d2b,wmo,fagy kosovo és metohija,2026-05-04T05:50:00+00:00,Serbia,0.5912618620135855,0,1,hu,MED,Europe
-'b36765a378',extremes,Storm,#b3b2b1,wmo,vihar srem,2026-05-07T05:46:00+00:00,Serbia,0.5901656709069183,0,1,hu,MED,Europe
+'308c7de514',extremes,Snow&Ice,#d60d2b,wmo,fagyos sumadija,2026-05-04T05:50:00+00:00,Serbia,0.5185154782979273,1,1,hu,MED,Europe
+'bd0cb2ff1a',extremes,Snow&Ice,#d60d2b,wmo,fagyos myjava,2026-04-20T05:27:00+00:00,Slovakia,0.5097401495523952,1,1,hu,WCE,Europe
+'8f4d57045d',extremes,Storm,#b3b2b1,wmo,viharhullám déli nagy síkság,2026-05-06T05:43:00+00:00,Hungary,0.5073684856784094,1,1,hu,WCE,Europe
+'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-05-07T05:46:00+00:00,Hungary,0.5065295873295997,1,1,hu,WCE,Europe
+'6ca3443501',extremes,Snow&Ice,#d60d2b,wmo,fagy kosovo és metohija,2026-05-04T05:50:00+00:00,Serbia,0.5025725827115477,1,1,hu,MED,Europe
+'b36765a378',extremes,Storm,#b3b2b1,wmo,vihar srem,2026-05-07T05:46:00+00:00,Serbia,0.5016408202708805,1,1,hu,MED,Europe
 '0a138b849a',extremes,Snow&Ice,#d60d2b,wmo,fagyos,2026-03-27T04:57:00+00:00,Slovakia,0.4889164224454554,1,3,hu,WCE,Europe
-'106359507b',extremes,Storm,#b3b2b1,wmo,vihar skalica,2026-04-23T05:16:00+00:00,Slovakia,0.4837212445320671,1,1,hu,WCE,Europe
-'22f6c8f931',extremes,Storm,#b3b2b1,wmo,viharhullám liptovský mikuláš,2026-05-06T05:43:00+00:00,Slovakia,0.480007213760698,1,1,hu,WCE,Europe
 'bbfe3bda09',extremes,Snow&Ice,#d60d2b,wmo,fagyos Szlovákia,2026-04-20T05:27:00+00:00,Slovakia,0.4779426596275061,2,1,hu,WCE,Europe
 '3fe36693de',extremes,Storm,#b3b2b1,wmo,viharhullám a Dunántúl déli részén,2026-04-21T05:15:00+00:00,Hungary,0.476266893830227,2,1,hu,WCE,Europe
 '8546cfac8b',extremes,Snow&Ice,#d60d2b,wmo,fagyos nyugat-szerbia,2026-05-01T05:54:00+00:00,Serbia,0.4746754063579655,2,1,hu,MED,Europe
-'62db2b7865',extremes,Storm,#b3b2b1,wmo,viharhullám nitra,2026-04-22T05:13:00+00:00,Slovakia,0.472184367758341,1,1,hu,WCE,Europe
 'b2d779acfd',extremes,Snow&Ice,#d60d2b,wmo,jég románia,2026-04-21T05:15:00+00:00,Romania,0.466820986847847,2,1,hu,WCE,Europe
 '0f50f15ab2',extremes,Storm,#b3b2b1,wmo,viharhullám szerbia,2026-04-12T05:12:00+00:00,Serbia,0.4665449677305332,2,1,hu,MED,Europe
 '0cfcdc295e',extremes,Snow&Ice,#d60d2b,wmo,fagy Szlovákia,2026-04-20T05:27:00+00:00,Slovakia,0.4630811648556969,2,1,hu,WCE,Europe
@@ -20,16 +17,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '197e004ede',extremes,Storm,#b3b2b1,wmo,viharhullám montenegró,2026-04-17T05:16:00+00:00,Montenegro,0.4596150588801748,2,1,hu,MED,Europe
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,viharhullám magyarország,2026-04-17T05:16:00+00:00,Hungary,0.4591440159544029,3,1,hu,WCE,Europe
 'adc50a5751',extremes,Snow&Ice,#d60d2b,wmo,fagyos románia,2026-04-04T04:30:00+00:00,Romania,0.458015872223823,2,1,hu,WCE,Europe
-'18b78f45b4',extremes,Thunderstorm,#53785a,wmo,zivatar feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.4568909827565087,1,1,hu,WCE,Europe
-'3ca35e31dc',extremes,Snow&Ice,#d60d2b,wmo,ice revúca,2026-04-10T05:13:00+00:00,Slovakia,0.4568029221738205,1,1,hu,WCE,Europe
 'dce5b3c7e0',extremes,Snow&Ice,#d60d2b,wmo,fagyos Szerbia,2026-04-22T05:13:00+00:00,Serbia,0.4563157453285797,2,1,hu,MED,Europe
-'a89b9aef70',extremes,Snow&Ice,#d60d2b,wmo,fagyos stará ľubovňa,2026-04-21T05:15:00+00:00,Slovakia,0.4555136868300647,1,1,hu,WCE,Europe
-'9acb4a7b02',extremes,Thunderstorm,#53785a,wmo,thunderstorm wien landstraße,2026-04-19T05:16:00+00:00,Austria,0.4554559964615721,1,1,hu,WCE,Europe
 'a0a7c5cb9d',extremes,Snow&Ice,#d60d2b,wmo,fagy Belgrád,2026-05-01T05:54:00+00:00,Serbia,0.4553207771100854,2,1,hu,MED,Europe
-'59d8df5b8c',extremes,Snow&Ice,#d60d2b,wmo,hó levoča,2026-04-30T05:46:00+00:00,Slovakia,0.4552799946484007,1,1,hu,WCE,Europe
-'088b671954',extremes,Snow&Ice,#d60d2b,wmo,ice myjava,2026-04-21T05:15:00+00:00,Slovakia,0.4549479219048219,1,1,hu,WCE,Europe
 '020bf84439',extremes,Storm,#b3b2b1,wmo,viharhullám északi nagy síkságon,2026-04-26T05:25:00+00:00,Hungary,0.4541172650202403,2,1,hu,WCE,Europe
-'5bf22c9ac4',extremes,Storm,#b3b2b1,wmo,vihargalanta,2026-04-23T05:16:00+00:00,Slovakia,0.4538136786286404,1,1,hu,WCE,Europe
 '8fba0540bb',extremes,Snow&Ice,#d60d2b,wmo,frost košice,2026-04-21T05:15:00+00:00,Slovakia,0.4535841128598651,1,1,hu,WCE,Europe
 'b902f85154',extremes,Snow&Ice,#d60d2b,wmo,ice pezinok,2026-04-09T04:58:00+00:00,Slovakia,0.4532725650543772,1,1,hu,WCE,Europe
 '6bd374849a',extremes,Thunderstorm,#53785a,wmo,zivatar délnyugat-szerbia,2026-04-15T05:12:00+00:00,Serbia,0.4532501509105927,1,1,hu,MED,Europe
@@ -251,6 +241,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '85c98951d6',extremes,Drought,#edc291,edo,eső hiánya Montenegró,2026-04-21T05:15:00+00:00,Montenegro,0.4114441200127271,0,1,hu,MED,Europe
 'c8a1cc04ce',extremes,Snow&Ice,#d60d2b,wmo,frost skalica,2026-04-09T04:58:00+00:00,Slovakia,0.4114085480091439,1,1,hu,WCE,Europe
 'c17c84dc34',extremes,Storm,#b3b2b1,wmo,viharhullám srem,2026-04-13T05:28:00+00:00,Serbia,0.4113556513524395,1,1,hu,MED,Europe
+'106359507b',extremes,Storm,#b3b2b1,wmo,vihar skalica,2026-04-23T05:16:00+00:00,Slovakia,0.41116305785225704,2,1,hu,WCE,Europe
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-04-25T05:00:00+00:00,Hungary,0.4111358429871553,4,1,hu,WCE,Europe
 'da4ecf5846',extremes,Snow&Ice,#d60d2b,wmo,hó revúca,2026-04-04T04:30:00+00:00,Slovakia,0.4110471645920905,1,1,hu,WCE,Europe
 'c8c95c0354',extremes,Snow&Ice,#d60d2b,wmo,snow rimavská sobota,2026-04-08T05:01:00+00:00,Slovakia,0.4107253840453669,1,1,hu,WCE,Europe
@@ -267,6 +258,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4db293a416',extremes,Snow&Ice,#d60d2b,wmo,dermesztő józanság,2026-04-07T04:59:00+00:00,Slovakia,0.4082823266475917,1,1,hu,WCE,Europe
 '930153af38',extremes,Snow&Ice,#d60d2b,wmo,hó žiar nad hronom,2026-04-11T04:34:00+00:00,Slovakia,0.4082794142853564,1,1,hu,WCE,Europe
 'd4c2ed75bd',extremes,Snow&Ice,#d60d2b,wmo,fagyos svidník,2026-04-22T05:13:00+00:00,Slovakia,0.4080961627046565,2,1,hu,WCE,Europe
+'22f6c8f931',extremes,Storm,#b3b2b1,wmo,viharhullám liptovský mikuláš,2026-05-06T05:43:00+00:00,Slovakia,0.4080061316965933,2,1,hu,WCE,Europe
 '5ff9e40fb1',extremes,Snow&Ice,#d60d2b,wmo,ice zvolen,2026-04-08T05:01:00+00:00,Slovakia,0.4079617670065357,1,1,hu,WCE,Europe
 '72a14a324f',extremes,Snow&Ice,#d60d2b,wmo,jég délkelet-szerbia,2026-05-02T05:24:00+00:00,Serbia,0.4074372694569187,2,1,hu,MED,Europe
 '825f0b206e',extremes,Snow&Ice,#d60d2b,wmo,ice vranov nad topľou,2026-04-09T04:58:00+00:00,Slovakia,0.407267114557431,1,1,hu,WCE,Europe
@@ -301,6 +293,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '34c58d82cb',extremes,Snow&Ice,#d60d2b,wmo,ice žiar nad hronom,2026-04-26T05:25:00+00:00,Slovakia,0.4018278605570002,2,1,hu,WCE,Europe
 '77b40a8518',extremes,Snow&Ice,#d60d2b,wmo,fagyos šaľa,2026-04-26T05:25:00+00:00,Slovakia,0.4015655230830672,2,1,hu,WCE,Europe
 '6c43ea8d05',extremes,Snow&Ice,#d60d2b,wmo,fagyos lučenec,2026-04-04T04:30:00+00:00,Slovakia,0.4014289892208409,1,1,hu,WCE,Europe
+'62db2b7865',extremes,Storm,#b3b2b1,wmo,viharhullám nitra,2026-04-22T05:13:00+00:00,Slovakia,0.4013567125945898,2,1,hu,WCE,Europe
 '64058b2dc1',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-04-15T05:12:00+00:00,Hungary,0.4012847568948847,1,1,hu,WCE,Europe
 '6914bcba44',extremes,Snow&Ice,#d60d2b,wmo,hó galanta,2026-04-09T04:58:00+00:00,Slovakia,0.4009072294017161,1,1,hu,WCE,Europe
 '6c0982934b',extremes,Storm,#b3b2b1,wmo,viharhullám piešťany,2026-04-23T05:16:00+00:00,Slovakia,0.4008316910068724,2,1,hu,WCE,Europe
@@ -366,6 +359,8 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '0ae35fe52b',extremes,Snow&Ice,#d60d2b,wmo,fagy vranov nad topľou,2026-04-21T05:15:00+00:00,Slovakia,0.3889893788596659,2,1,hu,WCE,Europe
 '54c2a42c35',extremes,Snow&Ice,#d60d2b,wmo,fagy Délkelet-Szerbia,2026-04-27T05:40:00+00:00,Serbia,0.3886395230213108,2,1,hu,MED,Europe
 '1ae7593f20',extremes,Snow&Ice,#d60d2b,wmo,fagyos stropkov,2026-04-12T05:12:00+00:00,Slovakia,0.3883638208976454,1,1,hu,WCE,Europe
+'18b78f45b4',extremes,Thunderstorm,#53785a,wmo,zivatar feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.38835733534303235,2,1,hu,WCE,Europe
+'3ca35e31dc',extremes,Snow&Ice,#d60d2b,wmo,ice revúca,2026-04-10T05:13:00+00:00,Slovakia,0.38828248384774744,2,1,hu,WCE,Europe
 '457f5dc6f5',extremes,Snow&Ice,#d60d2b,wmo,fagyállóság,2026-04-09T04:58:00+00:00,Slovakia,0.3880873353685815,1,1,hu,WCE,Europe
 'da1ae5191e',extremes,Storm,#b3b2b1,random,viharhullám,2026-04-05T05:00:00+00:00,,0.3880701928592456,0,1,hu,,
 'c82662c264',extremes,Thunderstorm,#53785a,wmo,jégeső belgrád,2026-04-13T05:28:00+00:00,Serbia,0.3879656664676311,2,1,hu,MED,Europe
@@ -374,9 +369,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Ausztriában,2026-04-19T05:16:00+00:00,Austria,0.3876685002169567,1,1,hu,WCE,Europe
 '2eda64a4ce',extremes,Snow&Ice,#d60d2b,wmo,jég krupina,2026-05-03T05:44:00+00:00,Slovakia,0.387665531865766,2,1,hu,WCE,Europe
 '680861b745',extremes,Snow&Ice,#d60d2b,wmo,hó Trnava,2026-04-08T05:01:00+00:00,Slovakia,0.3874950445433047,1,1,hu,WCE,Europe
+'a89b9aef70',extremes,Snow&Ice,#d60d2b,wmo,fagyos stará ľubovňa,2026-04-21T05:15:00+00:00,Slovakia,0.387186633805555,2,1,hu,WCE,Europe
+'9acb4a7b02',extremes,Thunderstorm,#53785a,wmo,thunderstorm wien landstraße,2026-04-19T05:16:00+00:00,Austria,0.38713759699233624,2,1,hu,WCE,Europe
+'59d8df5b8c',extremes,Snow&Ice,#d60d2b,wmo,hó levoča,2026-04-30T05:46:00+00:00,Slovakia,0.3869879954511406,2,1,hu,WCE,Europe
+'088b671954',extremes,Snow&Ice,#d60d2b,wmo,ice myjava,2026-04-21T05:15:00+00:00,Slovakia,0.3867057336190986,2,1,hu,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,szárazság románia,2026-04-22T05:13:00+00:00,Romania,0.3866368640914335,2,1,hu,WCE,Europe
 'dcf57624a4',extremes,Storm,#b3b2b1,wmo,vihar koszovó és metohija,2026-04-14T05:11:00+00:00,Serbia,0.3863034905136119,2,1,hu,MED,Europe
 '479259504e',extremes,Snow&Ice,#d60d2b,wmo,fagy Bardejov,2026-04-09T04:58:00+00:00,Slovakia,0.3862125648410883,1,1,hu,WCE,Europe
+'5bf22c9ac4',extremes,Storm,#b3b2b1,wmo,vihargalanta,2026-04-23T05:16:00+00:00,Slovakia,0.3857416268343443,2,1,hu,WCE,Europe
 '05aebbfe62',extremes,Snow&Ice,#d60d2b,wmo,frost Bratislava,2026-04-06T05:11:00+00:00,Slovakia,0.3854901369937984,1,1,hu,WCE,Europe
 'ccd388b365',extremes,Snow&Ice,#d60d2b,wmo,jég tvrdošín,2026-04-08T05:01:00+00:00,Slovakia,0.3854020543674558,1,1,hu,WCE,Europe
 '6decb70cd0',extremes,Snow&Ice,#d60d2b,wmo,fagyos michalovce,2026-04-07T04:59:00+00:00,Slovakia,0.3852340446546446,1,1,hu,WCE,Europe
