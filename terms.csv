@@ -1,20 +1,19 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,hőhullám Ausztria,2026-05-24T06:22:00+00:00,Austria,0.502773563488279,1,1,hu,WCE,Europe
 '1b19acfd4d',extremes,Precipitation,#d60d2b,wmo,eső a dél-dunántúlon,2026-05-16T05:40:00+00:00,Hungary,0.4915025419309237,3,2,hu,WCE,Europe
-'a63f9dc498',extremes,Heat Wave,#c40202,wmo,hőhullám innsbruck föld,2026-05-24T06:22:00+00:00,Austria,0.49083799318737065,1,1,hu,WCE,Europe
-'e37b1ffa16',extremes,Heat Wave,#c40202,wmo,hőhullám wels land,2026-05-24T06:22:00+00:00,Austria,0.48860558853316155,1,1,hu,WCE,Europe
+'a63f9dc498',extremes,Heat Wave,#c40202,wmo,hőhullám innsbruck föld,2026-05-24T06:22:00+00:00,Austria,0.4908379931873706,1,1,hu,WCE,Europe
+'e37b1ffa16',extremes,Heat Wave,#c40202,wmo,hőhullám wels land,2026-05-24T06:22:00+00:00,Austria,0.4886055885331615,1,1,hu,WCE,Europe
 '174bbfe494',extremes,Heat Wave,#c40202,wmo,hőhullám braunau am inn,2026-05-24T06:22:00+00:00,Austria,0.4863501169225954,1,1,hu,WCE,Europe
 '4b4f24d2af',extremes,Storm,#b3b2b1,wmo,vihar adriai partvidék,2026-05-24T06:22:00+00:00,Montenegro,0.485501138895165,1,1,hu,MED,Europe
 'cd26928722',extremes,Heat Wave,#c40202,wmo,hőhullám linzföld,2026-05-24T06:22:00+00:00,Austria,0.4844534386758245,1,1,hu,WCE,Europe
 '1a25356eb6',extremes,Storm,#b3b2b1,wmo,vihar montenegró,2026-05-16T05:40:00+00:00,Montenegro,0.4776184848149521,2,1,hu,MED,Europe
-'66fed82b61',extremes,Heat Wave,#c40202,wmo,hőhullám szerbia,2026-05-24T06:22:00+00:00,Serbia,0.47571746156613065,2,1,hu,MED,Europe
+'66fed82b61',extremes,Heat Wave,#c40202,wmo,hőhullám szerbia,2026-05-24T06:22:00+00:00,Serbia,0.4757174615661306,2,1,hu,MED,Europe
 'e4d5bf1603',extremes,Drought,#edc291,edo,drought hungary,2026-05-06T05:43:00+00:00,Hungary,0.4642734048188399,3,1,hu,WCE,Europe
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-05-15T06:09:00+00:00,Hungary,0.4641923963821551,2,1,hu,WCE,Europe
 'f04a2a7b53',extremes,Heat Wave,#c40202,wmo,hőhullám banat,2026-05-24T06:22:00+00:00,Serbia,0.4624620311098461,2,1,hu,MED,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-05-09T05:36:00+00:00,Hungary,0.4453154820660729,2,1,hu,WCE,Europe
 '93312f4a33',extremes,Storm,#b3b2b1,wmo,viharhullám magyarország,2026-05-07T05:46:00+00:00,Hungary,0.4382639442017944,3,1,hu,WCE,Europe
 'eb1c33110c',extremes,Snow&Ice,#d60d2b,wmo,jég szlovákia,2026-05-12T05:52:00+00:00,Slovakia,0.435501794688599,3,1,hu,WCE,Europe
-'815e4bf638',extremes,Drought,#edc291,edo,eső hiánya Magyarországon,2026-05-15T06:09:00+00:00,Hungary,0.4307233225210914,3,1,hu,WCE,Europe
 '3f9ff08aba',extremes,Storm,#b3b2b1,wmo,viharhullám hlohovec,2026-05-16T05:40:00+00:00,Slovakia,0.427516435759378,1,1,hu,WCE,Europe
 '1a95704f7b',extremes,Snow&Ice,#d60d2b,wmo,fagy stropkov,2026-05-13T06:03:00+00:00,Slovakia,0.4260517365046199,1,1,hu,WCE,Europe
 '6f9c89e717',extremes,Snow&Ice,#d60d2b,wmo,hó trenčín,2026-05-02T05:24:00+00:00,Slovakia,0.4247602329524753,1,1,hu,WCE,Europe
@@ -295,6 +294,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '2f30862216',extremes,Drought,#edc291,edo,száraz időszak Ausztria,2026-05-19T06:33:00+00:00,Austria,0.3665127634003246,2,1,hu,WCE,Europe
 '59e040f8e3',extremes,Snow&Ice,#d60d2b,wmo,fagy szabinov,2026-04-24T05:22:00+00:00,Slovakia,0.3664509060840629,2,1,hu,WCE,Europe
 '480b5a8e43',extremes,Snow&Ice,#d60d2b,wmo,fagyos Délkelet-Szerbia,2026-04-30T05:46:00+00:00,Serbia,0.3663075102206467,3,1,hu,MED,Europe
+'815e4bf638',extremes,Drought,#edc291,edo,eső hiánya Magyarországon,2026-05-15T06:09:00+00:00,Hungary,0.3662648391429277,4,1,hu,WCE,Europe
 '21d774777c',extremes,Precipitation,#d60d2b,wmo,eső sumadija,2026-05-07T05:46:00+00:00,Serbia,0.3660966841898215,2,1,hu,MED,Europe
 'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-05-07T05:46:00+00:00,Hungary,0.3659676268456358,3,1,hu,WCE,Europe
 '4e59127c9e',extremes,Snow&Ice,#d60d2b,wmo,fagyos banát,2026-04-27T05:40:00+00:00,Serbia,0.3658641167917646,2,1,hu,MED,Europe
