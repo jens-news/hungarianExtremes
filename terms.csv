@@ -1,18 +1,16 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'4ebf993939',extremes,Heat Wave,#c40202,wmo,hőhullám veľký krtíš,2026-05-26T06:31:00+00:00,Slovakia,0.5027757511754356,1,1,hu,WCE,Europe
-'11bb65f5ce',extremes,Thunderstorm,#53785a,wmo,zivatar közép-dunántúl,2026-05-15T06:09:00+00:00,Hungary,0.5027222518311432,2,2,hu,WCE,Europe
+'11bb65f5ce',extremes,Thunderstorm,#53785a,wmo,zivatar közép-dunántúl,2026-05-15T06:09:00+00:00,Hungary,0.5774639290564717,3,2,hu,WCE,Europe
 '2c531cc1a0',extremes,Heat Wave,#c40202,wmo,hőhullám rimavská sobota,2026-05-26T06:31:00+00:00,Slovakia,0.4956709483010854,1,1,hu,WCE,Europe
-'0fe2a78a5d',extremes,Storm,#b3b2b1,wmo,vihar szlovákia,2026-05-15T06:09:00+00:00,Slovakia,0.48526741044403415,1,1,hu,WCE,Europe
+'0fe2a78a5d',extremes,Storm,#b3b2b1,wmo,vihar szlovákia,2026-05-15T06:09:00+00:00,Slovakia,0.4852674104440341,1,1,hu,WCE,Europe
 '6eabd0be79',extremes,Storm,#b3b2b1,wmo,viharhullám szlovákia,2026-05-15T06:09:00+00:00,Slovakia,0.4822477918678503,1,1,hu,WCE,Europe
 '2009fba247',extremes,Heat Wave,#c40202,wmo,hőhullám sankt veit an der glan,2026-05-25T06:53:00+00:00,Austria,0.4816595705882616,1,1,hu,WCE,Europe
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,hőhullám ried im innkreis,2026-05-25T06:53:00+00:00,Austria,0.4808259212371219,1,1,hu,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,hőhullám eisenstadt umgebung,2026-05-26T06:31:00+00:00,Austria,0.4776916842287511,1,1,hu,WCE,Europe
 '1a25356eb6',extremes,Storm,#b3b2b1,wmo,vihar montenegró,2026-05-16T05:40:00+00:00,Montenegro,0.4776184848149521,2,1,hu,MED,Europe
-'6423d3e9f5',extremes,Heat Wave,#c40202,wmo,hőhullám wien neubau,2026-05-26T06:31:00+00:00,Austria,0.4770579132274748,1,1,hu,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,hőhullám salzburg stadt,2026-05-26T06:31:00+00:00,Austria,0.4765727595014098,1,1,hu,WCE,Europe
-'80cb0b129a',extremes,Heat Wave,#c40202,wmo,hőhullám gmunden,2026-05-26T06:31:00+00:00,Austria,0.47589709906844385,1,1,hu,WCE,Europe
+'80cb0b129a',extremes,Heat Wave,#c40202,wmo,hőhullám gmunden,2026-05-26T06:31:00+00:00,Austria,0.4758970990684438,1,1,hu,WCE,Europe
 '66fed82b61',extremes,Heat Wave,#c40202,wmo,hőhullám szerbia,2026-05-24T06:22:00+00:00,Serbia,0.4757174615661306,2,1,hu,MED,Europe
-'5d832bf6ca',extremes,Heat Wave,#c40202,wmo,hőhullám krems land,2026-05-26T06:31:00+00:00,Austria,0.47500774573176785,1,1,hu,WCE,Europe
+'5d832bf6ca',extremes,Heat Wave,#c40202,wmo,hőhullám krems land,2026-05-26T06:31:00+00:00,Austria,0.4750077457317678,1,1,hu,WCE,Europe
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,hőhullám lienz,2026-05-25T06:53:00+00:00,Austria,0.4749699247476604,1,1,hu,WCE,Europe
 '5132e858ef',extremes,Heat Wave,#c40202,wmo,hőhullám linz stadt,2026-05-26T06:31:00+00:00,Austria,0.4737490250750784,1,1,hu,WCE,Europe
 'a403bf2f56',extremes,Heat Wave,#c40202,wmo,hőhullám kosovo i metohija,2026-05-25T06:53:00+00:00,Serbia,0.4720096014785118,2,1,hu,MED,Europe
@@ -33,9 +31,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ef7604df11',extremes,Heat Wave,#c40202,wmo,hőhullám trebišov,2026-05-26T06:31:00+00:00,Slovakia,0.4371510129240231,2,1,hu,WCE,Europe
 '5b72b5353c',extremes,Heat Wave,#c40202,wmo,hőhullám dunajská streda,2026-05-26T06:31:00+00:00,Slovakia,0.4340879524549221,2,1,hu,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,szárazság románia,2026-05-16T05:40:00+00:00,Romania,0.4325577600507661,2,1,hu,WCE,Europe
-'7580c48956',extremes,Heat Wave,#c40202,wmo,hőhullám šaľa,2026-05-26T06:31:00+00:00,Slovakia,0.43154214459149726,2,1,hu,WCE,Europe
-'785de86325',extremes,Thunderstorm,#53785a,wmo,jégeső észak-magyarországon,2026-05-26T06:31:00+00:00,Hungary,0.43003303810605065,2,1,hu,WCE,Europe
+'7580c48956',extremes,Heat Wave,#c40202,wmo,hőhullám šaľa,2026-05-26T06:31:00+00:00,Slovakia,0.4315421445914972,2,1,hu,WCE,Europe
+'785de86325',extremes,Thunderstorm,#53785a,wmo,jégeső észak-magyarországon,2026-05-26T06:31:00+00:00,Hungary,0.4300330381060506,2,1,hu,WCE,Europe
 '3f9ff08aba',extremes,Storm,#b3b2b1,wmo,viharhullám hlohovec,2026-05-16T05:40:00+00:00,Slovakia,0.427516435759378,1,1,hu,WCE,Europe
+'4ebf993939',extremes,Heat Wave,#c40202,wmo,hőhullám veľký krtíš,2026-05-26T06:31:00+00:00,Slovakia,0.42735938849912025,2,1,hu,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,hőhullám Ausztria,2026-05-24T06:22:00+00:00,Austria,0.4273575289650371,2,1,hu,WCE,Europe
 '6f9c89e717',extremes,Snow&Ice,#d60d2b,wmo,hó trenčín,2026-05-02T05:24:00+00:00,Slovakia,0.4247602329524753,1,1,hu,WCE,Europe
 '1bbea32e37',extremes,Storm,#b3b2b1,wmo,viharhullám wien donaustadt,2026-05-05T05:29:00+00:00,Austria,0.4236835095225016,1,1,hu,WCE,Europe
@@ -87,6 +86,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'e48c4445d2',extremes,Storm,#b3b2b1,wmo,vihar rossz,2026-05-15T06:09:00+00:00,Slovakia,0.406414482375925,2,1,hu,WCE,Europe
 '7bfe2c1831',extremes,Snow&Ice,#d60d2b,wmo,fagy bánovce nad bebravou,2026-04-26T05:25:00+00:00,Slovakia,0.4058132604155886,2,1,hu,WCE,Europe
 '176370dc3e',extremes,Thunderstorm,#53785a,wmo,zivatar Kelet-Szerbia,2026-05-11T06:14:00+00:00,Serbia,0.4056873468726145,1,1,hu,MED,Europe
+'6423d3e9f5',extremes,Heat Wave,#c40202,wmo,hőhullám wien neubau,2026-05-26T06:31:00+00:00,Austria,0.4054992262433536,2,1,hu,WCE,Europe
 '934a03ac00',extremes,Precipitation,#d60d2b,wmo,csapadék žilina,2026-05-15T06:09:00+00:00,Slovakia,0.4053868619976731,1,1,hu,WCE,Europe
 '230445295d',extremes,Precipitation,#d60d2b,wmo,felhőszakadás backa,2026-05-07T05:46:00+00:00,Serbia,0.405351959520058,1,1,hu,MED,Europe
 '26267fbcb0',extremes,Thunderstorm,#53785a,wmo,jégeső Közép-Magyarországon,2026-05-11T06:14:00+00:00,Hungary,0.403884849935453,2,1,hu,WCE,Europe
