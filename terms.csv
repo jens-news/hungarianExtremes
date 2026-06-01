@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '11bb65f5ce',extremes,Thunderstorm,#53785a,wmo,zivatar közép-dunántúl,2026-05-15T06:09:00+00:00,Hungary,0.6420988931979701,11,2,hu,WCE,Europe
-'e69f6ccae1',extremes,Thunderstorm,#53785a,wmo,jégeső a dél-dunántúlon,2026-05-30T06:01:00+00:00,Hungary,0.5693218400025959,1,2,hu,WCE,Europe
-'8b97327ad9',extremes,Precipitation,#d60d2b,wmo,csapadék kosovo i metohija,2026-05-31T06:40:00+00:00,Serbia,0.5562817589158682,0,1,hu,MED,Europe
+'e69f6ccae1',extremes,Thunderstorm,#53785a,wmo,jégeső a dél-dunántúlon,2026-05-30T06:01:00+00:00,Hungary,0.6340735790022065,2,2,hu,WCE,Europe
 '29bc77cfa5',extremes,Precipitation,#d60d2b,wmo,záporeső Délnyugat-Szerbia,2026-05-31T06:40:00+00:00,Serbia,0.5293766290844254,0,1,hu,MED,Europe
 '49bd941a9a',extremes,Precipitation,#d60d2b,wmo,eső Magyarország,2026-05-31T06:40:00+00:00,Hungary,0.5234730933629963,2,1,hu,WCE,Europe
 '72b60f12de',extremes,Precipitation,#d60d2b,wmo,szakadó eső backa,2026-05-15T06:09:00+00:00,Serbia,0.5215899843116132,0,1,hu,MED,Europe
@@ -17,6 +16,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '191282e733',extremes,Thunderstorm,#53785a,wmo,zord időjárás wien donaustadt,2026-05-30T06:01:00+00:00,Austria,0.489462197926616,0,1,hu,WCE,Europe
 '8bbbd2e51b',extremes,Thunderstorm,#53785a,wmo,viharos időjárás tulln,2026-05-30T06:01:00+00:00,Austria,0.4880526921745236,0,1,hu,WCE,Europe
 'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge austria,2026-05-27T06:46:00+00:00,Austria,0.4872930452645105,1,1,hu,WCE,Europe
+'8b97327ad9',extremes,Precipitation,#d60d2b,wmo,csapadék kosovo i metohija,2026-05-31T06:40:00+00:00,Serbia,0.47283949507848794,1,1,hu,MED,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-05-09T05:36:00+00:00,Hungary,0.4453154820660729,2,1,hu,WCE,Europe
 '0392d8d3fc',extremes,Heat Wave,#c40202,wmo,hőhullám wien brigittenau,2026-05-27T06:46:00+00:00,Austria,0.4408907260805288,1,1,hu,WCE,Europe
 'f3efcd212e',extremes,Storm,#b3b2b1,wmo,vihar Kelet-Szerbia,2026-05-28T06:38:00+00:00,Serbia,0.4403070466989546,1,1,hu,MED,Europe
