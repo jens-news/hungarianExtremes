@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'a47d8d0227',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-05-30T06:01:00+00:00,Slovakia,0.6631855658879382,0,1,hu,WCE,Europe
+'199a71ffe8',extremes,Heat Wave,#c40202,wmo,hőhullám montenegró,2026-06-08T07:13:00+00:00,Montenegro,0.6508511664779292,0,1,hu,MED,Europe
+'41ffaa3ee6',extremes,Thunderstorm,#53785a,wmo,viharos időjárás Magyarország északi részén,2026-05-30T06:01:00+00:00,Hungary,0.6303517216726039,0,1,hu,WCE,Europe
+'5c700d0345',extremes,Heat Wave,#c40202,wmo,kontinentális és hegyvidéki hőhullám,2026-06-08T07:13:00+00:00,Montenegro,0.6220364913773937,0,1,hu,MED,Europe
+'3507a081a3',extremes,Precipitation,#d60d2b,wmo,csapadék románia,2026-06-08T07:13:00+00:00,Romania,0.6143033773250743,0,1,hu,WCE,Europe
+'39ec553725',extremes,Storm,#b3b2b1,wmo,viharhullám kosovo i metohija,2026-06-01T07:30:00+00:00,Serbia,0.608964977928091,0,1,hu,MED,Europe
 '6858667f01',extremes,Thunderstorm,#53785a,wmo,jégeső Magyarország,2026-05-30T06:01:00+00:00,Hungary,0.5773003149256446,2,2,hu,WCE,Europe
+'83b4c40e06',extremes,Thunderstorm,#53785a,wmo,zord idő Komárno,2026-06-08T07:13:00+00:00,Slovakia,0.5750438277650881,0,1,hu,WCE,Europe
+'f2849adb8d',extremes,Thunderstorm,#53785a,wmo,jégeső púchov,2026-06-08T07:13:00+00:00,Slovakia,0.5656200523651685,0,1,hu,WCE,Europe
+'162d32d7bb',extremes,Thunderstorm,#53785a,wmo,zivatar gelnica,2026-06-08T07:13:00+00:00,Slovakia,0.5644051250890474,0,1,hu,WCE,Europe
+'6ad408a8d4',extremes,Storm,#b3b2b1,wmo,vihar senec,2026-06-08T07:13:00+00:00,Slovakia,0.5632927109510553,0,1,hu,WCE,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-06-07T06:48:00+00:00,Hungary,0.5260342852761373,2,1,hu,WCE,Europe
 '49bd941a9a',extremes,Precipitation,#d60d2b,wmo,eső Magyarország,2026-05-31T06:40:00+00:00,Hungary,0.5234730933629963,2,1,hu,WCE,Europe
 'e69f6ccae1',extremes,Thunderstorm,#53785a,wmo,jégeső a dél-dunántúlon,2026-05-30T06:01:00+00:00,Hungary,0.51728635029223,5,2,hu,WCE,Europe
@@ -375,11 +385,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '8444b5e924',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás stará ľubovňa,2026-05-27T06:46:00+00:00,Slovakia,0.3470186526917612,1,1,hu,WCE,Europe
 'f1d3442696',extremes,Drought,#edc291,edo,aszály Ukrajna,2026-05-22T06:32:00+00:00,Ukraine,0.3467163004550501,1,1,hu,WCE,Europe
 'e48c4445d2',extremes,Storm,#b3b2b1,wmo,vihar rossz,2026-05-15T06:09:00+00:00,Slovakia,0.3466524300195363,3,1,hu,WCE,Europe
-'e8ce2a44cb',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-05-07T05:46:00+00:00,Austria,0.34631355922020407,2,1,hu,WCE,Europe
+'e8ce2a44cb',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-05-07T05:46:00+00:00,Austria,0.346313559220204,2,1,hu,WCE,Europe
 '426dfc62d8',extremes,Storm,#b3b2b1,wmo,storm surge wien ottakring,2026-05-30T06:01:00+00:00,Austria,0.3462937550220026,2,1,hu,WCE,Europe
 '2f548c5822',extremes,Heat Wave,#c40202,wmo,hőhullám schwaz,2026-05-24T06:22:00+00:00,Austria,0.3459157315274032,3,1,hu,WCE,Europe
 '469ecd5c53',extremes,Thunderstorm,#53785a,wmo,heves időjárás humenné,2026-05-27T06:46:00+00:00,Slovakia,0.3458121714736192,1,1,hu,WCE,Europe
-'b7d98e5317',extremes,Storm,#b3b2b1,wmo,vihar hullám topoľčany,2026-05-16T05:40:00+00:00,Slovakia,0.34575814210267364,2,1,hu,WCE,Europe
+'b7d98e5317',extremes,Storm,#b3b2b1,wmo,vihar hullám topoľčany,2026-05-16T05:40:00+00:00,Slovakia,0.3457581421026736,2,1,hu,WCE,Europe
 'b2ced5dc39',extremes,Snow&Ice,#d60d2b,wmo,ice stará ľubovňa,2026-05-13T06:03:00+00:00,Slovakia,0.3454996397978759,3,1,hu,WCE,Europe
 'b69967b67a',extremes,Storm,#b3b2b1,wmo,vihar grieskirchen,2026-06-04T07:06:00+00:00,Austria,0.3450912391903766,2,1,hu,WCE,Europe
 '230445295d',extremes,Precipitation,#d60d2b,wmo,felhőszakadás backa,2026-05-07T05:46:00+00:00,Serbia,0.3445491655920493,2,1,hu,MED,Europe
