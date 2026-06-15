@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
-ORIGO,ORIGO,ORG,0.2503576537911301,0.4935622317596566,en,46.59999999999998
+ORIGO,ORIGO,ORG,0.2501690331304935,0.49357674104124394,en,49.299999999999976
 HungaroMet,HungaroMet,ORG,0.022847222222222217,0.25312499999999993,en,8.000000000000002
 EU,EU,ORG,-0.13134920634920635,0.20357142857142854,en,3.0
 Trump,Trump,ORG,0.04875283446712018,0.26785714285714285,en,2.8
@@ -7,26 +7,28 @@ Lénárddaróc,Lénárddaróc,ORG,-0.3377192982456141,0.19736842105263158,en,1.9
 Eastern,Eastern,ORG,-0.15789473684210525,0.5,en,1.9
 HungaroMet Nonprofit Zrt,HungaroMet Nonprofit Zrt,ORG,-0.07434640522875817,0.16176470588235295,en,1.7
 TEK,TEK,ORG,0.0,0.0,en,1.3
-Sas,Sas,ORG,0.0,0.0,en,1.0
+Weather on Maps,Weather on Maps,ORG,0.25,0.0,en,1.0
+FIKI,FIKI,ORG,0.4,0.0,en,1.0
 the Richter Gedeon Pharmaceutical Factory,the Richter Gedeon Pharmaceutical Factory,ORG,0.0,0.0,en,1.0
+Climate Change News,Climate Change News,ORG,0.0,0.0,en,1.0
 the Japan Meteorological Institute,the Japan Meteorological Institute,ORG,0.4333333333333333,0.0,en,1.0
 JMA,JMA,ORG,0.4333333333333333,0.0,en,1.0
 the Japan Meteorological Service,the Japan Meteorological Service,ORG,-0.1,0.0,en,1.0
 General Atomics Aeronautical Systems,General Atomics Aeronautical Systems,ORG,0.4,0.0,en,1.0
 Eur,Eur,ORG,-0.06071428571428571,0.0,en,1.0
-FIKI,FIKI,ORG,0.4,0.0,en,1.0
-FDP,FDP,ORG,0.03333333333333334,0.0,en,1.0
+the Slovak Hydrometeorological Institute,the Slovak Hydrometeorological Institute,ORG,0.27777777777777773,0.0,en,1.0
 Eurostat,Eurostat,ORG,-0.03125,0.0,en,1.0
+the United Nations Meteorological Organization,the United Nations Meteorological Organization,ORG,0.04545454545454545,0.0,en,1.0
+The European Commission,The European Commission,ORG,0.03333333333333333,0.0,en,1.0
 the Social Democratic Party,the Social Democratic Party,ORG,0.011111111111111112,0.0,en,1.0
 PSD,PSD,ORG,0.011111111111111112,0.0,en,1.0
 the far-right Association for the Unification of Romanians,the far-right Association for the Unification of Romanians,ORG,0.011111111111111112,0.0,en,1.0
 AUR,AUR,ORG,0.011111111111111112,0.0,en,1.0
 Cold,Cold,ORG,-0.2222222222222222,0.0,en,1.0
-Weather on Maps,Weather on Maps,ORG,0.25,0.0,en,1.0
-The European Commission,The European Commission,ORG,0.03333333333333333,0.0,en,1.0
-Hezbollah,Hezbollah,ORG,-0.0625,0.0,en,1.0
-SPD,SPD,ORG,0.03333333333333334,0.0,en,1.0
+Sas,Sas,ORG,0.0,0.0,en,1.0
 CDU/CSU,CDU/CSU,ORG,0.03333333333333334,0.0,en,1.0
+FDP,FDP,ORG,0.03333333333333334,0.0,en,1.0
+the Economic Competition Authority,the Economic Competition Authority,ORG,0.06666666666666667,0.0,en,1.0
 Spitsbergen,Spitsbergen,ORG,0.3454545454545454,0.0,en,1.0
 ChatGPT,ChatGPT,ORG,0.4000000000000001,0.0,en,1.0
 the Operative Tribe,the Operative Tribe,ORG,-0.03333333333333333,0.0,en,1.0
@@ -35,8 +37,8 @@ the Kék Bolygó Climate Protection Foundation,the Kék Bolygó Climate Protecti
 the European Union's,the European Union's,ORG,0.17045454545454544,0.0,en,1.0
 Opella Healthcare Commercial Kft,Opella Healthcare Commercial Kft,ORG,0.06666666666666667,0.0,en,1.0
 Normaflore,Normaflore,ORG,0.06666666666666667,0.0,en,1.0
-the Economic Competition Authority,the Economic Competition Authority,ORG,0.06666666666666667,0.0,en,1.0
 The US Embassy,The US Embassy,ORG,0.0,0.0,en,1.0
+SPD,SPD,ORG,0.03333333333333334,0.0,en,1.0
 the San Francisco Fed,the San Francisco Fed,ORG,-0.3333333333333333,0.0,en,1.0
 Akasa,Akasa,ORG,0.0,0.0,en,1.0
 QatarEnergy,QatarEnergy,ORG,0.1,0.0,en,1.0
@@ -44,4 +46,5 @@ Shell,Shell,ORG,0.1,0.0,en,1.0
 LNG,LNG,ORG,0.1,0.0,en,1.0
 TotalEnergies,TotalEnergies,ORG,0.1,0.0,en,1.0
 bora,bora,ORG,0.20208333333333334,0.0,en,1.0
-the Slovak Hydrometeorological Institute,the Slovak Hydrometeorological Institute,ORG,0.27777777777777773,0.0,en,1.0
+Hezbollah,Hezbollah,ORG,-0.0625,0.0,en,1.0
+the Slovenian Disaster Management,the Slovenian Disaster Management,ORG,0.0027777777777777493,0.0,en,1.0
