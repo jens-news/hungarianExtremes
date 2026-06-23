@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-06-08T07:13:00+00:00,Hungary,0.5949591727605864,1,1,hu,WCE,Europe
-'d21a261516',extremes,Thunderstorm,#53785a,wmo,jégeső srem,2026-06-11T07:14:00+00:00,Serbia,0.592755352606398,0,1,hu,MED,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-06-16T08:27:00+00:00,Austria,0.5918914262265089,0,1,hu,WCE,Europe
 '9ffb0fb2b2',extremes,Heat Wave,#c40202,wmo,hőhullám nitra,2026-06-20T06:47:00+00:00,Slovakia,0.5907852085892017,0,1,hu,WCE,Europe
 'ef3deb9507',extremes,Storm,#b3b2b1,wmo,viharhullám Délnyugat-Szerbia,2026-06-17T07:33:00+00:00,Serbia,0.5882296950971161,0,1,hu,MED,Europe
@@ -25,10 +23,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cb9fd54bed',extremes,Heat Wave,#c40202,wmo,hőhullám északi alföldi,2026-06-20T06:47:00+00:00,Hungary,0.5388198152443734,1,1,hu,WCE,Europe
 'e02c251a65',extremes,Heat Wave,#c40202,wmo,hőhullám pomoravlje,2026-06-19T07:39:00+00:00,Serbia,0.5387609403168446,1,1,hu,MED,Europe
 '6b3abe2363',extremes,Heat Wave,#c40202,wmo,hőhullám hlohovec,2026-06-18T07:16:00+00:00,Slovakia,0.5335219388321137,1,1,hu,WCE,Europe
+'0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-06-08T07:13:00+00:00,Hungary,0.5256654168464984,2,1,hu,WCE,Europe
 '9e9e9c4928',extremes,Heat Wave,#c40202,wmo,hőhullám Közép-Magyarország,2026-06-23T06:33:00+00:00,Hungary,0.5230733848107136,1,1,hu,WCE,Europe
 'f1327fb40e',extremes,Heat Wave,#c40202,wmo,hőhullám központi,2026-06-20T06:47:00+00:00,Montenegro,0.5181020873968138,1,1,hu,MED,Europe
 '786f31896e',extremes,Precipitation,#d60d2b,wmo,felhőszakadás Magyarország,2026-06-20T06:47:00+00:00,Hungary,0.5064292918055243,1,1,hu,WCE,Europe
 '6166708ac1',extremes,Heat Wave,#c40202,wmo,hőhullám komárno,2026-06-20T06:47:00+00:00,Slovakia,0.5058410185687188,1,1,hu,WCE,Europe
+'d21a261516',extremes,Thunderstorm,#53785a,wmo,jégeső srem,2026-06-11T07:14:00+00:00,Serbia,0.5038420497154383,1,1,hu,MED,Europe
 'e69f6ccae1',extremes,Thunderstorm,#53785a,wmo,jégeső a dél-dunántúlon,2026-05-30T06:01:00+00:00,Hungary,0.4396934277483955,6,1,hu,WCE,Europe
 '4d9577e33d',extremes,Volcano,#b83202,random,vulkán,2026-05-21T06:34:00+00:00,,0.4358947347845827,4,2,hu,,
 '0ab5ac5913',extremes,Thunderstorm,#53785a,wmo,zivatar magyarország,2026-05-30T06:01:00+00:00,Hungary,0.4148085133755158,4,1,hu,WCE,Europe
