@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '49bd941a9a',extremes,Precipitation,#d60d2b,wmo,eső Magyarország,2026-06-20T06:47:00+00:00,Hungary,0.6992710721891143,2,2,hu,WCE,Europe
+'981fd4045a',extremes,Thunderstorm,#53785a,wmo,zord időjárás Magyarországon,2026-06-15T08:36:00+00:00,Hungary,0.6648518431603816,0,1,hu,WCE,Europe
+'fe5ac6d3b6',extremes,Drought,#edc291,edo,esőhiány szlovákia,2026-06-20T06:47:00+00:00,Slovakia,0.659865730922508,0,1,hu,WCE,Europe
+'b847f55060',extremes,Heat Wave,#c40202,wmo,hőhullám backa,2026-06-19T07:39:00+00:00,Serbia,0.6531975627604887,0,1,hu,MED,Europe
+'e69f6ccae1',extremes,Thunderstorm,#53785a,wmo,jégeső a dél-dunántúlon,2026-06-22T08:39:00+00:00,Hungary,0.6447656488562117,0,1,hu,WCE,Europe
+'bae4bee887',extremes,Storm,#b3b2b1,wmo,vihar szerbia,2026-06-20T06:47:00+00:00,Serbia,0.6354267594914087,0,1,hu,MED,Europe
+'8085f19638',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Délkelet-Szerbia,2026-06-24T06:30:00+00:00,Serbia,0.6214939745989535,0,1,hu,MED,Europe
+'f3efcd212e',extremes,Storm,#b3b2b1,wmo,vihar Kelet-Szerbia,2026-06-24T06:30:00+00:00,Serbia,0.5960377925267814,0,1,hu,MED,Europe
+'4b4f24d2af',extremes,Storm,#b3b2b1,wmo,vihar adriai partvidék,2026-06-15T08:36:00+00:00,Montenegro,0.5868776768878843,0,1,hu,MED,Europe
+'3810c92d74',extremes,Heat Wave,#c40202,wmo,hőhullám Kelet-Szerbia,2026-06-20T06:47:00+00:00,Serbia,0.5864553905904435,0,1,hu,MED,Europe
+'603055183e',extremes,Heat Wave,#c40202,wmo,hőhullám poltár,2026-06-24T06:30:00+00:00,Slovakia,0.5767289944507453,0,1,hu,WCE,Europe
 '9352246184',extremes,Storm,#b3b2b1,wmo,viharhullám pomoravlje,2026-06-22T08:39:00+00:00,Serbia,0.5619595521996976,0,1,hu,MED,Europe
 '5fcff63ca8',extremes,Precipitation,#d60d2b,wmo,záporeső Magyarország,2026-06-20T06:47:00+00:00,Hungary,0.5606288537587588,2,2,hu,WCE,Europe
 '930e581d4b',extremes,Heat Wave,#c40202,wmo,hőhullám nyugati Dunántúl,2026-06-20T06:47:00+00:00,Hungary,0.5595964518693282,1,1,hu,WCE,Europe
@@ -29,12 +39,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'd6c0bf69d6',extremes,Precipitation,#d60d2b,wmo,záporeső románia,2026-06-10T06:49:00+00:00,Romania,0.4996404862509952,1,1,hu,WCE,Europe
 '2012c87640',extremes,Heat Wave,#c40202,wmo,hőhullám považská bystrica,2026-06-20T06:47:00+00:00,Slovakia,0.4985853688459309,1,1,hu,WCE,Europe
 '0cdad841d3',extremes,Heat Wave,#c40202,wmo,hőhullám senec,2026-06-21T07:16:00+00:00,Slovakia,0.4949899989999296,1,1,hu,WCE,Europe
-'2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-06-08T07:13:00+00:00,Austria,0.49405915177142584,1,1,hu,WCE,Europe
+'2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-06-08T07:13:00+00:00,Austria,0.4940591517714258,1,1,hu,WCE,Europe
 'c5ad20e461',extremes,Heat Wave,#c40202,wmo,hőhullám prešov,2026-06-20T06:47:00+00:00,Slovakia,0.4939589507427677,1,1,hu,WCE,Europe
 'aa8529c872',extremes,Heat Wave,#c40202,wmo,hőhullám prievidza,2026-06-20T06:47:00+00:00,Slovakia,0.4912785008050588,1,1,hu,WCE,Europe
 '6abe1a36de',extremes,Heat Wave,#c40202,wmo,hőhullám žiar nad hronom,2026-06-20T06:47:00+00:00,Slovakia,0.4899492547465501,1,1,hu,WCE,Europe
-'ef7604df11',extremes,Heat Wave,#c40202,wmo,hőhullám trebišov,2026-06-20T06:47:00+00:00,Slovakia,0.48673339559074413,1,1,hu,WCE,Europe
-'40aa93f32c',extremes,Heat Wave,#c40202,wmo,hőhullám humenné,2026-06-20T06:47:00+00:00,Slovakia,0.48665855730101487,1,1,hu,WCE,Europe
+'ef7604df11',extremes,Heat Wave,#c40202,wmo,hőhullám trebišov,2026-06-20T06:47:00+00:00,Slovakia,0.4867333955907441,1,1,hu,WCE,Europe
+'40aa93f32c',extremes,Heat Wave,#c40202,wmo,hőhullám humenné,2026-06-20T06:47:00+00:00,Slovakia,0.4866585573010148,1,1,hu,WCE,Europe
 '6a40f7af6e',extremes,Heat Wave,#c40202,wmo,hőhullám detva,2026-06-20T06:47:00+00:00,Slovakia,0.4861090217268396,1,1,hu,WCE,Europe
 'b977b005b8',extremes,Heat Wave,#c40202,wmo,hőhullám románia,2026-06-21T07:16:00+00:00,Romania,0.4804338413899966,2,1,hu,WCE,Europe
 '85c98951d6',extremes,Drought,#edc291,edo,eső hiánya Montenegró,2026-06-08T07:13:00+00:00,Montenegro,0.4786376372748402,2,1,hu,MED,Europe
