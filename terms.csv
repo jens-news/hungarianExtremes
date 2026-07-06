@@ -1,14 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'6aad127a70',extremes,Heat Wave,#c40202,wmo,hőhullám wien fortyogó,2026-06-19T07:39:00+00:00,Austria,0.5313651814264565,0,1,hu,WCE,Europe
-'d778591169',extremes,Thunderstorm,#53785a,wmo,zord időjárás nové zámky,2026-06-30T06:39:00+00:00,Slovakia,0.5226238177154375,0,1,hu,WCE,Europe
-'37c2f83cd3',extremes,Heat Wave,#c40202,wmo,hőhullám wien josefstadt,2026-06-17T07:33:00+00:00,Austria,0.5225559973926555,0,1,hu,WCE,Europe
-'575fd8b455',extremes,Storm,#b3b2b1,wmo,viharhullám tvrdošín,2026-06-21T07:16:00+00:00,Slovakia,0.5225026251555204,0,1,hu,WCE,Europe
-'cd26928722',extremes,Heat Wave,#c40202,wmo,hőhullám linzföld,2026-06-19T07:39:00+00:00,Austria,0.5223402496744162,0,1,hu,WCE,Europe
-'c366e9882a',extremes,Heat Wave,#c40202,wmo,hőhullám vöcklabruck,2026-06-17T07:33:00+00:00,Austria,0.5222444486781113,0,1,hu,WCE,Europe
-'9e9bee5b6e',extremes,Heat Wave,#c40202,wmo,hőhullám steyr stadt,2026-06-18T07:16:00+00:00,Austria,0.5217104765573322,0,1,hu,WCE,Europe
-'0560c66657',extremes,Heat Wave,#c40202,wmo,hőhullám lilienfeld,2026-06-18T07:16:00+00:00,Austria,0.5214661217244804,0,1,hu,WCE,Europe
-'174bbfe494',extremes,Heat Wave,#c40202,wmo,hőhullám braunau am inn,2026-06-18T07:16:00+00:00,Austria,0.5211147571872248,0,1,hu,WCE,Europe
-'997502c6bf',extremes,Heat Wave,#c40202,wmo,hőhullám wien hernals,2026-06-18T07:16:00+00:00,Austria,0.520892479222882,0,1,hu,WCE,Europe
 '930e581d4b',extremes,Heat Wave,#c40202,wmo,hőhullám nyugati Dunántúl,2026-06-20T06:47:00+00:00,Hungary,0.493812186004251,4,2,hu,WCE,Europe
 '9e9e9c4928',extremes,Heat Wave,#c40202,wmo,hőhullám Közép-Magyarország,2026-06-23T06:33:00+00:00,Hungary,0.4823234415343794,4,2,hu,WCE,Europe
 '9891fcebe3',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-06-18T07:16:00+00:00,Slovakia,0.4743846861094672,2,1,hu,WCE,Europe
@@ -17,12 +7,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarország,2026-07-02T06:24:00+00:00,Hungary,0.4615541497422553,6,1,hu,WCE,Europe
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-06-25T06:32:00+00:00,Slovakia,0.4604411533686462,3,1,hu,WCE,Europe
 '0ab5ac5913',extremes,Thunderstorm,#53785a,wmo,zivatar magyarország,2026-06-20T06:47:00+00:00,Hungary,0.4602793958875775,3,1,hu,WCE,Europe
-'445b1c9855',extremes,Precipitation,#d60d2b,wmo,felhőszakadás Délkelet-Szerbia,2026-07-01T06:52:00+00:00,Serbia,0.4494712799107087,1,1,hu,MED,Europe
-'12ae466e64',extremes,Precipitation,#d60d2b,wmo,eső szerbia,2026-07-02T06:24:00+00:00,Serbia,0.4494152781472216,1,1,hu,MED,Europe
-'abbc3d2b7f',extremes,Heat Wave,#c40202,wmo,hőhullám neusiedl am see,2026-06-17T07:33:00+00:00,Austria,0.4493701998668405,1,1,hu,WCE,Europe
-'4165a63454',extremes,Heat Wave,#c40202,wmo,hőhullám leoben,2026-06-18T07:16:00+00:00,Austria,0.4491818993596183,1,1,hu,WCE,Europe
-'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge austria,2026-06-18T07:16:00+00:00,Austria,0.4491026752206032,1,1,hu,WCE,Europe
-'fccc386ebd',extremes,Thunderstorm,#53785a,wmo,jégeső bytča,2026-06-20T06:47:00+00:00,Slovakia,0.4488456921179429,1,1,hu,WCE,Europe
+'6aad127a70',extremes,Heat Wave,#c40202,wmo,hőhullám wien fortyogó,2026-06-19T07:39:00+00:00,Austria,0.451660404212488,1,1,hu,WCE,Europe
 'ed5fa39fec',extremes,Storm,#b3b2b1,wmo,vihar kežmarok,2026-06-30T06:39:00+00:00,Slovakia,0.4488055537864595,1,1,hu,WCE,Europe
 '1ef1ce6d5e',extremes,Storm,#b3b2b1,wmo,viharhullám šaľa,2026-06-21T07:16:00+00:00,Slovakia,0.4482271393665055,1,1,hu,WCE,Europe
 '8db80effe5',extremes,Heat Wave,#c40202,wmo,hőhullám kürt,2026-06-18T07:16:00+00:00,Austria,0.4481360552366567,1,1,hu,WCE,Europe
@@ -39,6 +24,15 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '99f7065f64',extremes,Storm,#b3b2b1,wmo,vihar pezinok,2026-07-01T06:52:00+00:00,Slovakia,0.4449057844470402,1,1,hu,WCE,Europe
 'fccc1a846a',extremes,Heat Wave,#c40202,wmo,hőhullám salzburg stadt,2026-06-18T07:16:00+00:00,Austria,0.4446938788327262,1,1,hu,WCE,Europe
 '0568f120c7',extremes,Heat Wave,#c40202,wmo,hőhullám innsbruck stadt,2026-06-17T07:33:00+00:00,Austria,0.4442418709820843,1,1,hu,WCE,Europe
+'d778591169',extremes,Thunderstorm,#53785a,wmo,zord időjárás nové zámky,2026-06-30T06:39:00+00:00,Slovakia,0.44423024505812186,1,1,hu,WCE,Europe
+'37c2f83cd3',extremes,Heat Wave,#c40202,wmo,hőhullám wien josefstadt,2026-06-17T07:33:00+00:00,Austria,0.4441725977837571,1,1,hu,WCE,Europe
+'575fd8b455',extremes,Storm,#b3b2b1,wmo,viharhullám tvrdošín,2026-06-21T07:16:00+00:00,Slovakia,0.4441272313821923,1,1,hu,WCE,Europe
+'cd26928722',extremes,Heat Wave,#c40202,wmo,hőhullám linzföld,2026-06-19T07:39:00+00:00,Austria,0.4439892122232537,1,1,hu,WCE,Europe
+'c366e9882a',extremes,Heat Wave,#c40202,wmo,hőhullám vöcklabruck,2026-06-17T07:33:00+00:00,Austria,0.4439077813763946,1,1,hu,WCE,Europe
+'9e9bee5b6e',extremes,Heat Wave,#c40202,wmo,hőhullám steyr stadt,2026-06-18T07:16:00+00:00,Austria,0.44345390507373234,1,1,hu,WCE,Europe
+'0560c66657',extremes,Heat Wave,#c40202,wmo,hőhullám lilienfeld,2026-06-18T07:16:00+00:00,Austria,0.4432462034658083,1,1,hu,WCE,Europe
+'174bbfe494',extremes,Heat Wave,#c40202,wmo,hőhullám braunau am inn,2026-06-18T07:16:00+00:00,Austria,0.44294754360914107,1,1,hu,WCE,Europe
+'997502c6bf',extremes,Heat Wave,#c40202,wmo,hőhullám wien hernals,2026-06-18T07:16:00+00:00,Austria,0.44275860733944966,1,1,hu,WCE,Europe
 '13b84419f9',extremes,Heat Wave,#c40202,wmo,hőhullám kežmarok,2026-06-29T07:13:00+00:00,Slovakia,0.4418081228194719,2,1,hu,WCE,Europe
 '8774b5e8a0',extremes,Thunderstorm,#53785a,wmo,heves időjárás pomoravlje,2026-06-21T07:16:00+00:00,Serbia,0.4415387982816737,2,1,hu,MED,Europe
 '5800e5f00e',extremes,Thunderstorm,#53785a,wmo,jégeső szlovákia,2026-06-20T06:47:00+00:00,Slovakia,0.4366908878917249,2,1,hu,WCE,Europe
@@ -204,14 +198,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '373a7dee66',extremes,Heat Wave,#c40202,wmo,hőhullám feldkirchen,2026-06-19T07:39:00+00:00,Austria,0.3833851938970177,2,1,hu,WCE,Europe
 '2b1687fc3e',extremes,Storm,#b3b2b1,wmo,viharhullám ružomberok,2026-06-22T08:39:00+00:00,Slovakia,0.3826696233560352,2,1,hu,WCE,Europe
 '43eb4d9368',extremes,Heat Wave,#c40202,wmo,hőhullám eisenstadt umgebung,2026-06-18T07:16:00+00:00,Austria,0.3824785636556703,2,1,hu,WCE,Europe
+'445b1c9855',extremes,Precipitation,#d60d2b,wmo,felhőszakadás Délkelet-Szerbia,2026-07-01T06:52:00+00:00,Serbia,0.38205058792410235,2,1,hu,MED,Europe
 '5c700d0345',extremes,Heat Wave,#c40202,wmo,kontinentális és hegyvidéki hőhullám,2026-06-08T07:13:00+00:00,Montenegro,0.3820081602671418,3,1,hu,MED,Europe
+'12ae466e64',extremes,Precipitation,#d60d2b,wmo,eső szerbia,2026-07-02T06:24:00+00:00,Serbia,0.38200298642513836,2,1,hu,MED,Europe
+'abbc3d2b7f',extremes,Heat Wave,#c40202,wmo,hőhullám neusiedl am see,2026-06-17T07:33:00+00:00,Austria,0.38196466988681443,2,1,hu,WCE,Europe
+'4165a63454',extremes,Heat Wave,#c40202,wmo,hőhullám leoben,2026-06-18T07:16:00+00:00,Austria,0.38180461445567554,2,1,hu,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,hőhullám klagenfurt stadt,2026-06-17T07:33:00+00:00,Austria,0.3817950732273037,2,1,hu,WCE,Europe
 '649bb080e1',extremes,Heat Wave,#c40202,wmo,hőhullám lienz,2026-06-17T07:33:00+00:00,Austria,0.3817404558768912,2,1,hu,WCE,Europe
+'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge austria,2026-06-18T07:16:00+00:00,Austria,0.3817372739375127,2,1,hu,WCE,Europe
 '8085f19638',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Délkelet-Szerbia,2026-06-24T06:30:00+00:00,Serbia,0.3816749871505823,3,1,hu,MED,Europe
+'fccc386ebd',extremes,Thunderstorm,#53785a,wmo,jégeső bytča,2026-06-20T06:47:00+00:00,Slovakia,0.38151883830025146,2,1,hu,WCE,Europe
 'a9ca322d69',extremes,Thunderstorm,#53785a,wmo,zivatar rožňava,2026-06-30T06:39:00+00:00,Slovakia,0.3815179034267251,2,1,hu,WCE,Europe
 'aea6991aee',extremes,Storm,#b3b2b1,wmo,viharhullám snina,2026-06-21T07:16:00+00:00,Slovakia,0.3813790956259503,2,1,hu,WCE,Europe
 '7616cf50fb',extremes,Storm,#b3b2b1,wmo,viharhullám žiar nad hronom,2026-06-21T07:16:00+00:00,Slovakia,0.3810254269841719,2,1,hu,WCE,Europe
-'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-06-07T06:48:00+00:00,Hungary,0.3808923543620092,4,1,hu,WCE,Europe
 '43ad97d633',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Ausztriában,2026-06-18T07:16:00+00:00,Austria,0.3808872051556194,2,1,hu,WCE,Europe
 '1d93f98a94',extremes,Heat Wave,#c40202,wmo,hőhullám süllyedt pölten föld,2026-06-18T07:16:00+00:00,Austria,0.3807096949122273,2,1,hu,WCE,Europe
 '768d0f8039',extremes,Heat Wave,#c40202,wmo,hőhullám villach land,2026-06-18T07:16:00+00:00,Austria,0.3804552986717496,2,1,hu,WCE,Europe
@@ -241,7 +240,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5b72b5353c',extremes,Heat Wave,#c40202,wmo,hőhullám dunajská streda,2026-06-20T06:47:00+00:00,Slovakia,0.3660498242598645,3,1,hu,WCE,Europe
 'f3efcd212e',extremes,Storm,#b3b2b1,wmo,vihar Kelet-Szerbia,2026-06-24T06:30:00+00:00,Serbia,0.3660417093355095,3,1,hu,MED,Europe
 '040f58de13',extremes,Drought,#edc291,edo,szárazság Montenegró,2026-06-15T08:36:00+00:00,Montenegro,0.3655522896666894,3,1,hu,MED,Europe
-'9f50f80ea2',extremes,Drought,#edc291,edo,szárazság Montenegróban,2026-06-02T07:08:00+00:00,Montenegro,0.3655409798616843,2,1,hu,MED,Europe
 'b3fabbe59e',extremes,Heat Wave,#c40202,wmo,hőhullám nyugat-szerbia,2026-06-19T07:39:00+00:00,Serbia,0.3655165491456379,3,1,hu,MED,Europe
 '6166708ac1',extremes,Heat Wave,#c40202,wmo,hőhullám komárno,2026-06-20T06:47:00+00:00,Slovakia,0.3654701359158993,3,1,hu,WCE,Europe
 '0de927e704',extremes,Heat Wave,#c40202,wmo,hőhullám ružomberok,2026-06-27T06:08:00+00:00,Slovakia,0.3645280402253501,3,1,hu,WCE,Europe
@@ -315,7 +313,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '356aeabd32',extremes,Storm,#b3b2b1,wmo,vihar veľký krtíš,2026-06-08T07:13:00+00:00,Slovakia,0.331038589110761,3,1,hu,WCE,Europe
 '10b7782bae',extremes,Heat Wave,#c40202,wmo,hőhullám amstetten,2026-06-17T07:33:00+00:00,Austria,0.3299100798197693,3,1,hu,WCE,Europe
 '7e368143e7',extremes,Storm,#b3b2b1,wmo,viharbanát,2026-06-14T07:07:00+00:00,Serbia,0.3284475183529796,3,1,hu,MED,Europe
-'6fd7af5b15',extremes,Storm,#b3b2b1,wmo,vihar Nyugat-Dunántúl,2026-06-08T07:13:00+00:00,Hungary,0.3273698150458448,4,1,hu,WCE,Europe
 '2f783dae54',extremes,Storm,#b3b2b1,wmo,viharhullám zlaté moravce,2026-06-09T06:32:00+00:00,Slovakia,0.3267850812977527,3,1,hu,WCE,Europe
 '89b04d4900',extremes,Storm,#b3b2b1,wmo,viharhullám rosszindulatú,2026-06-08T07:13:00+00:00,Slovakia,0.3261836587040541,3,1,hu,WCE,Europe
 'e8c411889a',extremes,Storm,#b3b2b1,wmo,viharhullám žilina,2026-06-09T06:32:00+00:00,Slovakia,0.3253697348254449,3,1,hu,WCE,Europe
@@ -325,16 +322,11 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '53e4cebf22',extremes,Heat Wave,#c40202,wmo,hőhullám waidhofen an der ybbs stadt,2026-06-17T07:33:00+00:00,Austria,0.323350269576148,3,1,hu,WCE,Europe
 '37abe265d4',extremes,Heat Wave,#c40202,wmo,hőhullám sankt pölten stadt,2026-06-17T07:33:00+00:00,Austria,0.3230341866494104,3,1,hu,WCE,Europe
 'a44bfc4e1e',extremes,Storm,#b3b2b1,wmo,vihar közép-dunántúli,2026-06-09T06:32:00+00:00,Hungary,0.3216279427111061,4,1,hu,WCE,Europe
-'3507a081a3',extremes,Precipitation,#d60d2b,wmo,csapadék románia,2026-06-08T07:13:00+00:00,Romania,0.3206702023597969,4,1,hu,WCE,Europe
-'2318b21bfb',extremes,Thunderstorm,#53785a,wmo,zivatar montenegró,2026-06-06T06:08:00+00:00,Montenegro,0.317819722086631,3,1,hu,MED,Europe
-'0fe2a78a5d',extremes,Storm,#b3b2b1,wmo,vihar szlovákia,2026-06-08T07:13:00+00:00,Slovakia,0.3119717130329511,4,1,hu,WCE,Europe
 '49ebcdd39c',extremes,Precipitation,#d60d2b,wmo,felhőszakadás nyugat-szerbia,2026-06-10T06:49:00+00:00,Serbia,0.3112298568415339,3,1,hu,MED,Europe
 '9d1377813a',extremes,Storm,#b3b2b1,wmo,viharhullám wien wieden,2026-06-09T06:32:00+00:00,Austria,0.3077579215812844,3,1,hu,WCE,Europe
 'e303cbe15e',extremes,Thunderstorm,#53785a,wmo,jégeső mödling,2026-06-08T07:13:00+00:00,Austria,0.3072736060422257,3,1,hu,WCE,Europe
 '9e43e11e23',extremes,Thunderstorm,#53785a,wmo,jégeső montenegró,2026-06-15T08:36:00+00:00,Montenegro,0.3071727996275878,3,1,hu,MED,Europe
-'fbf2dfa581',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Kelet-Szerbia,2026-06-06T06:08:00+00:00,Serbia,0.3070357392575978,3,1,hu,MED,Europe
 '1941e8a7b0',extremes,Storm,#b3b2b1,wmo,vihar wien währing,2026-06-09T06:32:00+00:00,Austria,0.3069370597125054,3,1,hu,WCE,Europe
 '849b6a1137',extremes,Heat Wave,#c40202,wmo,hőhullám skalica,2026-06-18T07:16:00+00:00,Slovakia,0.3056795215795457,4,1,hu,WCE,Europe
 'd82b7a522b',extremes,Thunderstorm,#53785a,wmo,zivatar arad bihor timiș,2026-06-12T07:05:00+00:00,Romania,0.2943084954841671,4,1,hu,WCE,Europe
-'e66f8aec46',extremes,Heat Wave,#c40202,wmo,hőhullám adriai partvidék,2026-06-09T06:32:00+00:00,Montenegro,0.2906422160059941,4,1,hu,MED,Europe
 'f23dc81d7a',extremes,Heat Wave,#c40202,wmo,hőhullám wien landstraße,2026-06-17T07:33:00+00:00,Austria,0.2774009934872679,4,1,hu,WCE,Europe
