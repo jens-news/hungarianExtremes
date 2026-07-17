@@ -1,6 +1,4 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-07-16T05:25:00+00:00,Hungary,0.6263461299523619,0,1,hu,WCE,Europe
-'930e581d4b',extremes,Heat Wave,#c40202,wmo,hőhullám nyugati Dunántúl,2026-07-17T05:27:00+00:00,Hungary,0.6040129946366593,0,1,hu,WCE,Europe
 'da9e0bd73a',extremes,Precipitation,#d60d2b,wmo,csapadék Dél-Dunántúl,2026-07-17T05:27:00+00:00,Hungary,0.6024318745591926,0,1,hu,WCE,Europe
 'd9e596d278',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-07-09T06:27:00+00:00,Austria,0.5999112563677939,0,1,hu,WCE,Europe
 'ccbdb3df2e',extremes,Storm,#b3b2b1,wmo,viharhullám Kelet-Szerbia,2026-07-17T05:27:00+00:00,Serbia,0.5960654951542054,0,1,hu,MED,Europe
@@ -10,8 +8,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '80c0079ef0',extremes,Precipitation,#d60d2b,wmo,csapadék backa,2026-07-17T05:27:00+00:00,Serbia,0.5683591665453943,0,1,hu,MED,Europe
 '9e9e9c4928',extremes,Heat Wave,#c40202,wmo,hőhullám Közép-Magyarország,2026-06-23T06:33:00+00:00,Hungary,0.5681593392198007,8,2,hu,WCE,Europe
 '7fafbf12bc',extremes,Thunderstorm,#53785a,wmo,zord idő prievidza,2026-07-17T05:27:00+00:00,Slovakia,0.5544228958457891,0,1,hu,WCE,Europe
+'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-07-16T05:25:00+00:00,Hungary,0.5323942104595076,1,1,hu,WCE,Europe
 '249480b7d8',extremes,Storm,#b3b2b1,wmo,vihar Közép-Magyarország,2026-07-08T05:37:00+00:00,Hungary,0.5167921962189848,3,2,hu,WCE,Europe
 '0a2e0dc05c',extremes,Storm,#b3b2b1,wmo,vihar magyarország,2026-06-30T06:39:00+00:00,Hungary,0.5165223620752145,5,1,hu,WCE,Europe
+'930e581d4b',extremes,Heat Wave,#c40202,wmo,hőhullám nyugati Dunántúl,2026-07-17T05:27:00+00:00,Hungary,0.5135610604411603,1,1,hu,WCE,Europe
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,jégeső románia,2026-06-30T06:39:00+00:00,Romania,0.5022397395725691,5,1,hu,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,hőhullám Ausztria,2026-06-17T07:33:00+00:00,Austria,0.5018485657592601,3,2,hu,WCE,Europe
 '3507a081a3',extremes,Precipitation,#d60d2b,wmo,csapadék románia,2026-07-03T06:09:00+00:00,Romania,0.4924617088962441,3,1,hu,WCE,Europe
