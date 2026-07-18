@@ -1,7 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '9e9e9c4928',extremes,Heat Wave,#c40202,wmo,hőhullám Közép-Magyarország,2026-06-23T06:33:00+00:00,Hungary,0.5681593392198007,8,2,hu,WCE,Europe
-'9182674f2a',extremes,Storm,#b3b2b1,wmo,viharhullám sumadija,2026-07-17T05:27:00+00:00,Serbia,0.5490241102850081,0,1,hu,MED,Europe
-'085be55c14',extremes,Storm,#b3b2b1,wmo,vihar vissza,2026-07-17T05:27:00+00:00,Serbia,0.5462441647281283,0,1,hu,MED,Europe
 'b70d3739d1',extremes,Thunderstorm,#53785a,wmo,zivatar senec,2026-07-17T05:27:00+00:00,Slovakia,0.5447962502328789,0,1,hu,WCE,Europe
 '1285279304',extremes,Thunderstorm,#53785a,wmo,zord időjárás snina,2026-07-17T05:27:00+00:00,Slovakia,0.5412529678858482,0,1,hu,WCE,Europe
 '106359507b',extremes,Storm,#b3b2b1,wmo,vihar skalica,2026-07-17T05:27:00+00:00,Slovakia,0.5410954081752425,0,1,hu,WCE,Europe
@@ -25,8 +23,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-07-12T05:43:00+00:00,Hungary,0.4883235414500018,3,1,hu,WCE,Europe
 'fc236e781c',extremes,Precipitation,#d60d2b,wmo,szakadó eső sumadija,2026-07-17T05:27:00+00:00,Serbia,0.4867753022536509,1,1,hu,MED,Europe
 '80c0079ef0',extremes,Precipitation,#d60d2b,wmo,csapadék backa,2026-07-17T05:27:00+00:00,Serbia,0.4831052915635851,1,1,hu,MED,Europe
+'085be55c14',extremes,Storm,#b3b2b1,wmo,vihar vissza,2026-07-17T05:27:00+00:00,Serbia,0.47860772001890906,1,1,hu,MED,Europe
 '9891fcebe3',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-06-18T07:16:00+00:00,Slovakia,0.4743846861094672,2,1,hu,WCE,Europe
 '7fafbf12bc',extremes,Thunderstorm,#53785a,wmo,zord idő prievidza,2026-07-17T05:27:00+00:00,Slovakia,0.4712594614689207,1,1,hu,WCE,Europe
+'9182674f2a',extremes,Storm,#b3b2b1,wmo,viharhullám sumadija,2026-07-17T05:27:00+00:00,Serbia,0.46667049374225683,1,1,hu,MED,Europe
 '6d3d793865',extremes,Thunderstorm,#53785a,wmo,zivatar dél-dunántúl,2026-06-30T06:39:00+00:00,Hungary,0.4631914865633256,3,2,hu,WCE,Europe
 '5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarország,2026-07-02T06:24:00+00:00,Hungary,0.4615541497422553,6,1,hu,WCE,Europe
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-06-25T06:32:00+00:00,Slovakia,0.4604411533686462,3,1,hu,WCE,Europe
