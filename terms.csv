@@ -1,5 +1,15 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
+'ef7604df11',extremes,Heat Wave,#c40202,wmo,hőhullám trebišov,2026-07-15T05:15:00+00:00,Slovakia,0.5894315225439848,0,1,hu,WCE,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,wmo,hőhullám magyarország,2026-07-15T05:15:00+00:00,Hungary,0.5596069811195319,7,2,hu,WCE,Europe
+'1726432452',extremes,Heat Wave,#c40202,wmo,hőhullám bludenz,2026-07-12T05:43:00+00:00,Austria,0.509272745362841,0,1,hu,WCE,Europe
+'174bbfe494',extremes,Heat Wave,#c40202,wmo,hőhullám braunau am inn,2026-07-09T06:27:00+00:00,Austria,0.5086590673235668,0,1,hu,WCE,Europe
+'fccc1a846a',extremes,Heat Wave,#c40202,wmo,hőhullám salzburg stadt,2026-07-10T06:27:00+00:00,Austria,0.5080030440307184,0,1,hu,WCE,Europe
+'17b0136195',extremes,Heat Wave,#c40202,wmo,hőhullám völkermarkt,2026-07-10T06:27:00+00:00,Austria,0.5078086164444542,0,1,hu,WCE,Europe
+'979ec45109',extremes,Heat Wave,#c40202,wmo,hőhullám wien döbling,2026-07-13T05:53:00+00:00,Austria,0.5077536114898951,0,1,hu,WCE,Europe
+'a98c3b7a2c',extremes,Heat Wave,#c40202,wmo,hőhullám steyr land,2026-07-12T05:43:00+00:00,Austria,0.5074785823148242,0,1,hu,WCE,Europe
+'7f4df5a8c8',extremes,Heat Wave,#c40202,wmo,hőhullám kirchdorf an der krems,2026-07-10T06:27:00+00:00,Austria,0.507222442339811,0,1,hu,WCE,Europe
+'6cd9ecca82',extremes,Precipitation,#d60d2b,wmo,eső délnyugat-szerbia,2026-07-12T05:43:00+00:00,Serbia,0.507209735105684,0,1,hu,MED,Europe
+'5dd4b0774d',extremes,Heat Wave,#c40202,wmo,hőhullám eferding,2026-07-09T06:27:00+00:00,Austria,0.5070394718064075,0,1,hu,WCE,Europe
 '41210bc398',extremes,Thunderstorm,#53785a,wmo,jégeső románia,2026-06-30T06:39:00+00:00,Romania,0.5022397395725691,5,1,hu,WCE,Europe
 '995db3fa05',extremes,Heat Wave,#c40202,wmo,hőhullám Ausztria,2026-06-17T07:33:00+00:00,Austria,0.5018485657592601,3,2,hu,WCE,Europe
 '6858667f01',extremes,Thunderstorm,#53785a,wmo,jégeső Magyarország,2026-07-11T05:27:00+00:00,Hungary,0.5001919559323512,2,1,hu,WCE,Europe
@@ -267,7 +277,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '409b2d5b17',extremes,Storm,#b3b2b1,wmo,viharhullám veľký krtíš,2026-07-15T05:15:00+00:00,Slovakia,0.3785465179217227,2,1,hu,WCE,Europe
 '99f7065f64',extremes,Storm,#b3b2b1,wmo,vihar pezinok,2026-07-01T06:52:00+00:00,Slovakia,0.3781699167799842,2,1,hu,WCE,Europe
 'f79920c5f3',extremes,Storm,#b3b2b1,wmo,vihar považská bystrica,2026-07-15T05:15:00+00:00,Slovakia,0.3779989304383601,2,1,hu,WCE,Europe
-'209a5e73b6',extremes,Storm,#b3b2b1,wmo,vihar levoča,2026-07-17T05:27:00+00:00,Slovakia,0.37772167610183155,2,1,hu,WCE,Europe
+'209a5e73b6',extremes,Storm,#b3b2b1,wmo,vihar levoča,2026-07-17T05:27:00+00:00,Slovakia,0.3777216761018315,2,1,hu,WCE,Europe
 'd778591169',extremes,Thunderstorm,#53785a,wmo,zord időjárás nové zámky,2026-06-30T06:39:00+00:00,Slovakia,0.3775957082994035,2,1,hu,WCE,Europe
 '2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-07-05T06:25:00+00:00,Austria,0.3763795340486499,2,1,hu,WCE,Europe
 'e794a413c5',extremes,Storm,#b3b2b1,wmo,vihar detva,2026-07-01T06:52:00+00:00,Slovakia,0.3760987552227393,2,1,hu,WCE,Europe
@@ -385,5 +395,5 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d3545201a',extremes,Storm,#b3b2b1,wmo,viharhullám közép-dunántúl,2026-07-06T06:52:00+00:00,Hungary,0.3241386501690403,4,1,hu,WCE,Europe
 'a47d8d0227',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-06-28T06:44:00+00:00,Slovakia,0.3150824355442009,3,1,hu,WCE,Europe
 'ab758cd370',extremes,Storm,#b3b2b1,wmo,vihar vranov nad topľou,2026-06-30T06:39:00+00:00,Slovakia,0.3118268753004634,3,1,hu,WCE,Europe
-'5b39215bbc',extremes,Thunderstorm,#53785a,wmo,súlyos időjárási murtal,2026-06-28T06:44:00+00:00,Austria,0.30677402684722876,3,1,hu,WCE,Europe
+'5b39215bbc',extremes,Thunderstorm,#53785a,wmo,súlyos időjárási murtal,2026-06-28T06:44:00+00:00,Austria,0.3067740268472287,3,1,hu,WCE,Europe
 '5f2972e0b6',extremes,Storm,#b3b2b1,wmo,viharhullám schwaz,2026-07-14T05:14:00+00:00,Austria,0.306331667475949,3,1,hu,WCE,Europe
