@@ -1,24 +1,25 @@
 ,phrase,label,sentiment,subjectivity,language,count
-ORIGO,ORIGO,ORG,0.2526186075169438,0.49907578558225485,en,54.099999999999966
+ORIGO,ORIGO,ORG,0.2522522522522521,0.4984984984984982,en,55.49999999999997
 HungaroMet,HungaroMet,ORG,-0.07436412315930388,0.3644578313253011,en,8.300000000000002
 EU,EU,ORG,-0.13134920634920635,0.20357142857142854,en,3.0
 Trump,Trump,ORG,0.04875283446712018,0.26785714285714285,en,2.8
 Lénárddaróc,Lénárddaróc,ORG,-0.3377192982456141,0.19736842105263158,en,1.9
 Eastern,Eastern,ORG,-0.15789473684210525,0.5,en,1.9
-HungaroMet Nonprofit Zrt,HungaroMet Nonprofit Zrt,ORG,-0.07434640522875817,0.16176470588235295,en,1.7
 the aurora borealis,the aurora borealis,ORG,0.0,0.0,en,1.7
+HungaroMet Nonprofit Zrt,HungaroMet Nonprofit Zrt,ORG,-0.07434640522875817,0.16176470588235295,en,1.7
 the National Oncology Institute,the National Oncology Institute,ORG,-0.21614583333333331,0.35937499999999994,en,1.6
+MTI,MTI,ORG,0.038461538461538464,0.11538461538461539,en,1.3
 TEK,TEK,ORG,0.0,0.0,en,1.3
-PSD,PSD,ORG,0.011111111111111112,0.0,en,1.0
-the far-right Association for the Unification of Romanians,the far-right Association for the Unification of Romanians,ORG,0.011111111111111112,0.0,en,1.0
-the US Geological Survey,the US Geological Survey,ORG,0.04444444444444443,0.0,en,1.0
-Cold,Cold,ORG,-0.2222222222222222,0.0,en,1.0
-the Social Democratic Party,the Social Democratic Party,ORG,0.011111111111111112,0.0,en,1.0
-Weather on Maps,Weather on Maps,ORG,0.25,0.0,en,1.0
 Honaunau,Honaunau,ORG,0.04444444444444443,0.0,en,1.0
-Napoopoo,Napoopoo,ORG,0.04444444444444443,0.0,en,1.0
+Weather on Maps,Weather on Maps,ORG,0.25,0.0,en,1.0
+the far-right Association for the Unification of Romanians,the far-right Association for the Unification of Romanians,ORG,0.011111111111111112,0.0,en,1.0
+Cold,Cold,ORG,-0.2222222222222222,0.0,en,1.0
 AUR,AUR,ORG,0.011111111111111112,0.0,en,1.0
+PSD,PSD,ORG,0.011111111111111112,0.0,en,1.0
+the Social Democratic Party,the Social Democratic Party,ORG,0.011111111111111112,0.0,en,1.0
+Napoopoo,Napoopoo,ORG,0.04444444444444443,0.0,en,1.0
 the Slovak Hydrometeorological Institute,the Slovak Hydrometeorological Institute,ORG,0.27777777777777773,0.0,en,1.0
+the US Geological Survey,the US Geological Survey,ORG,0.04444444444444443,0.0,en,1.0
 USGS,USGS,ORG,0.04444444444444443,0.0,en,1.0
 Eur,Eur,ORG,-0.06071428571428571,0.0,en,1.0
 the United Nations Meteorological Organization,the United Nations Meteorological Organization,ORG,0.04545454545454545,0.0,en,1.0
@@ -31,7 +32,6 @@ the National Directorate General of Disaster Management of the BM,the National D
 HungaroMet data,HungaroMet data,ORG,0.14583333333333334,0.0,en,1.0
 Hegyeshalmi,Hegyeshalmi,ORG,0.05,0.0,en,1.0
 Mávinform,Mávinform,ORG,0.05,0.0,en,1.0
-MTI,MTI,ORG,0.05,0.0,en,1.0
 Eurostat,Eurostat,ORG,-0.03125,0.0,en,1.0
 the Japan Meteorological Service,the Japan Meteorological Service,ORG,-0.1,0.0,en,1.0
 FIKI,FIKI,ORG,0.4,0.0,en,1.0
