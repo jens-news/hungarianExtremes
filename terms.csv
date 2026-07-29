@@ -1,9 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'a47d8d0227',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-07-20T05:54:00+00:00,Slovakia,0.6449161345577912,0,1,hu,WCE,Europe
 'f7fad55db6',extremes,Storm,#b3b2b1,wmo,vihar románia,2026-07-28T05:31:00+00:00,Romania,0.610947419736756,1,2,hu,WCE,Europe
-'c1960389ea',extremes,Heat Wave,#c40202,wmo,hőhullám rožňava,2026-07-18T05:10:00+00:00,Slovakia,0.6014693138927804,0,1,hu,WCE,Europe
+'a47d8d0227',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-07-20T05:54:00+00:00,Slovakia,0.5483287293741225,1,1,hu,WCE,Europe
 '5e70c4afad',extremes,Heat Wave,#c40202,wmo,hőhullám zlaté moravce,2026-07-16T05:25:00+00:00,Slovakia,0.5397979772491601,0,1,hu,WCE,Europe
 '9ffb0fb2b2',extremes,Heat Wave,#c40202,wmo,hőhullám nitra,2026-07-28T05:31:00+00:00,Slovakia,0.5330374447467526,0,1,hu,WCE,Europe
+'c1960389ea',extremes,Heat Wave,#c40202,wmo,hőhullám rožňava,2026-07-18T05:10:00+00:00,Slovakia,0.5112489168088633,1,1,hu,WCE,Europe
 'efb002bcd6',extremes,Heat Wave,#c40202,wmo,hőhullám eisenstadt stadt,2026-07-13T05:53:00+00:00,Austria,0.5022439771884729,0,1,hu,WCE,Europe
 '6858667f01',extremes,Thunderstorm,#53785a,wmo,jégeső Magyarország,2026-07-11T05:27:00+00:00,Hungary,0.5001919559323512,2,1,hu,WCE,Europe
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,hőhullám oberwart,2026-07-10T06:27:00+00:00,Austria,0.4997374409101945,0,1,hu,WCE,Europe
@@ -85,7 +85,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1d0eb56b6a',extremes,Precipitation,#d60d2b,wmo,felhőszakadás Nyugat-Dunántúl,2026-07-17T05:27:00+00:00,Hungary,0.419799925696646,2,1,hu,WCE,Europe
 '5d1c477d57',extremes,Storm,#b3b2b1,wmo,viharhullám az adriai tengerparton,2026-07-25T05:29:00+00:00,Montenegro,0.419307505022703,2,1,hu,MED,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,szárazság románia,2026-07-03T06:09:00+00:00,Romania,0.4190400541388748,2,1,hu,WCE,Europe
-'972d59d024',extremes,Thunderstorm,#53785a,wmo,zord időjárás az északi alföldi,2026-06-22T08:39:00+00:00,Hungary,0.4188051246559323,1,1,hu,WCE,Europe
 '28b262a6d3',extremes,Thunderstorm,#53785a,wmo,hail wien margareten,2026-06-30T06:39:00+00:00,Austria,0.4187039541550073,1,1,hu,WCE,Europe
 'd3ea6aacfa',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Nyugat-Szerbiában,2026-07-21T05:36:00+00:00,Serbia,0.4186778796030219,2,1,hu,MED,Europe
 'd9dfd6c60d',extremes,Storm,#b3b2b1,wmo,vihar déli nagy síkság,2026-07-01T06:52:00+00:00,Hungary,0.4186691137459039,2,1,hu,WCE,Europe
