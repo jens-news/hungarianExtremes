@@ -1,8 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c759e791c4',extremes,Wildfire,#d60d2b,effis,wildfire hungary,2026-08-07T11:06:00+00:00,Hungary,0.7913846367557793,0,1,hu,WCE,Europe
-'ed96a847da',extremes,Wildfire,#d60d2b,effis,wildfire magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.7913302872544452,0,1,hu,WCE,Europe
-'6b12d20119',extremes,Wildfire,#d60d2b,effis,wildfire fejér hungary,2026-08-07T11:06:00+00:00,Hungary,0.7865969434981543,0,1,hu,WCE,Europe
-'9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.729466025404055,0,1,hu,WCE,Europe
+'9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.7701961365934468,1,2,hu,WCE,Europe
 '785de86325',extremes,Thunderstorm,#53785a,wmo,jégeső észak-magyarországon,2026-08-01T05:42:00+00:00,Hungary,0.7207569422592432,0,1,hu,WCE,Europe
 '62f5b29317',extremes,Wildfire,#d60d2b,effis,futótűz tulcea romania,2026-08-07T09:56:00+00:00,Romania,0.712256982555407,0,1,hu,MED,Europe
 'be6a55ce29',extremes,Wildfire,#d60d2b,effis,bushfire црна гора montenegró,2026-08-07T11:06:00+00:00,Montenegro,0.712256974838842,0,1,hu,MED,Europe
@@ -10,6 +7,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild fire рашка област szerbia,2026-08-07T11:06:00+00:00,Serbia,0.7122569580759426,0,1,hu,MED,Europe
 '0f5047d744',extremes,Wildfire,#d60d2b,effis,bozóttűz tulcea romania,2026-08-07T09:56:00+00:00,Romania,0.7122569055645881,0,1,hu,MED,Europe
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-08-01T05:42:00+00:00,Slovakia,0.7044618515136368,8,2,hu,WCE,Europe
+'c759e791c4',extremes,Wildfire,#d60d2b,effis,wildfire hungary,2026-08-07T11:06:00+00:00,Hungary,0.6726769412424124,1,1,hu,WCE,Europe
+'ed96a847da',extremes,Wildfire,#d60d2b,effis,wildfire magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.6726307441662784,1,1,hu,WCE,Europe
+'6b12d20119',extremes,Wildfire,#d60d2b,effis,wildfire fejér hungary,2026-08-07T11:06:00+00:00,Hungary,0.6686074019734312,1,1,hu,WCE,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,wmo,hőhullám magyarország,2026-08-04T05:32:00+00:00,Hungary,0.6380586956155461,2,1,hu,WCE,Europe
 '1a25356eb6',extremes,Storm,#b3b2b1,wmo,vihar montenegró,2026-07-27T06:05:00+00:00,Montenegro,0.6306492386809671,3,1,hu,MED,Europe
 '9891fcebe3',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-07-10T06:27:00+00:00,Slovakia,0.4732116343703526,2,1,hu,WCE,Europe
