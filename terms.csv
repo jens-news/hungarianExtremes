@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-08-01T05:42:00+00:00,Slovakia,0.7044618515136368,8,2,hu,WCE,Europe
 '9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.6548167311044297,2,2,hu,WCE,Europe
-'5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarországi,2026-08-07T09:56:00+00:00,Hungary,0.6535923508718615,0,1,hu,WCE,Europe
 '1e3db537cb',extremes,Wildfire,#d60d2b,effis,bushfire niederösterreich süd austria,2026-08-07T11:06:00+00:00,Austria,0.6410296456698648,0,1,hu,WCE,Europe
 'ea02c6ad93',extremes,Wildfire,#d60d2b,effis,bushfire austria,2026-08-07T11:06:00+00:00,Austria,0.6408665283336455,0,1,hu,WCE,Europe
 '515f844fd1',extremes,Wildfire,#d60d2b,effis,bushfire österreich niederösterreich süd st. egyden am steinfeld,2026-08-07T11:06:00+00:00,Austria,0.6398580286671891,0,1,hu,WCE,Europe
@@ -20,6 +19,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ed96a847da',extremes,Wildfire,#d60d2b,effis,wildfire magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.5717361325413367,2,1,hu,WCE,Europe
 '6b12d20119',extremes,Wildfire,#d60d2b,effis,wildfire fejér hungary,2026-08-07T11:06:00+00:00,Hungary,0.5683162916774165,2,1,hu,WCE,Europe
 '5cbd0f70b7',extremes,Heat Wave,#c40202,wmo,hőhullám Délkelet-Szerbia,2026-08-03T05:57:00+00:00,Serbia,0.558115809183644,1,1,hu,MED,Europe
+'5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarországi,2026-08-07T09:56:00+00:00,Hungary,0.5557035132410822,1,1,hu,WCE,Europe
 'be6a55ce29',extremes,Wildfire,#d60d2b,effis,bushfire црна гора montenegró,2026-08-07T11:06:00+00:00,Montenegro,0.5146056643210632,2,1,hu,MED,Europe
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,bushfire caraş severin románia,2026-08-07T09:56:00+00:00,Romania,0.5146056550880297,2,1,hu,WCE,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild fire рашка област szerbia,2026-08-07T11:06:00+00:00,Serbia,0.5146056522098684,2,1,hu,MED,Europe
