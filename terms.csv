@@ -3,13 +3,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.6548167311044297,2,2,hu,WCE,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,wmo,hőhullám magyarország,2026-08-04T05:32:00+00:00,Hungary,0.6380586956155461,2,1,hu,WCE,Europe
 '1a25356eb6',extremes,Storm,#b3b2b1,wmo,vihar montenegró,2026-07-27T06:05:00+00:00,Montenegro,0.6306492386809671,3,1,hu,MED,Europe
-'f9f03d333d',extremes,Wildfire,#d60d2b,meteo,erdőtűz montenegró,2026-08-08T03:51:00+00:00,Montenegro,0.5806649995953446,0,1,hu,MED,Europe
-'9e0208c6e0',extremes,Heat Wave,#c40202,meteo,magas hőmérsékletű ausztria,2026-08-09T03:59:00+00:00,Austria,0.5785262165023978,0,1,hu,WCE,Europe
-'0c43db65a3',extremes,Storm,#b3b2b1,wmo,vihar botoșani maramureș neamț suceava,2026-08-07T09:56:00+00:00,Romania,0.5782111026813141,0,1,hu,WCE,Europe
-'c17c84dc34',extremes,Storm,#b3b2b1,wmo,viharhullám srem,2026-08-07T04:37:00+00:00,Serbia,0.5724776803444853,0,1,hu,MED,Europe
-'8085f19638',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Délkelet-Szerbia,2026-08-07T11:06:00+00:00,Serbia,0.5700164321423928,0,1,hu,MED,Europe
-'32ace0520c',extremes,Storm,#b3b2b1,wmo,viharhullám michalovce,2026-08-07T09:56:00+00:00,Slovakia,0.5666976925988545,0,1,hu,WCE,Europe
-'2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-07-31T05:51:00+00:00,Austria,0.565165154680014,0,1,hu,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,szárazság románia,2026-08-01T05:42:00+00:00,Romania,0.5581211571074501,0,1,hu,WCE,Europe
 '5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarországi,2026-08-07T09:56:00+00:00,Hungary,0.5557035132410822,1,1,hu,WCE,Europe
 '21e6e2b0f4',extremes,Storm,#b3b2b1,wmo,vihar michalovce,2026-08-07T11:06:00+00:00,Slovakia,0.5513582328543564,0,1,hu,WCE,Europe
@@ -46,9 +39,16 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '249480b7d8',extremes,Storm,#b3b2b1,wmo,vihar Közép-Magyarország,2026-08-06T05:33:00+00:00,Hungary,0.4999419803682488,1,1,hu,WCE,Europe
 '176370dc3e',extremes,Thunderstorm,#53785a,wmo,zivatar Kelet-Szerbia,2026-07-27T06:05:00+00:00,Serbia,0.4962262696276104,1,1,hu,MED,Europe
 '359f2dbb62',extremes,Storm,#b3b2b1,wmo,viharhullám backa,2026-08-07T04:37:00+00:00,Serbia,0.4959124885902356,1,1,hu,MED,Europe
+'f9f03d333d',extremes,Wildfire,#d60d2b,meteo,erdőtűz montenegró,2026-08-08T03:51:00+00:00,Montenegro,0.49356524965604287,1,1,hu,MED,Europe
+'9e0208c6e0',extremes,Heat Wave,#c40202,meteo,magas hőmérsékletű ausztria,2026-08-09T03:59:00+00:00,Austria,0.4917472840270381,1,1,hu,WCE,Europe
+'0c43db65a3',extremes,Storm,#b3b2b1,wmo,vihar botoșani maramureș neamț suceava,2026-08-07T09:56:00+00:00,Romania,0.491479437279117,1,1,hu,WCE,Europe
+'c17c84dc34',extremes,Storm,#b3b2b1,wmo,viharhullám srem,2026-08-07T04:37:00+00:00,Serbia,0.4866060282928125,1,1,hu,MED,Europe
 'c759e791c4',extremes,Wildfire,#d60d2b,effis,wildfire hungary,2026-08-07T11:06:00+00:00,Hungary,0.4860090900476429,3,1,hu,WCE,Europe
 'ed96a847da',extremes,Wildfire,#d60d2b,effis,wildfire magyarország fejér székesfehérvár,2026-08-07T11:06:00+00:00,Hungary,0.4859757126601361,3,1,hu,WCE,Europe
+'8085f19638',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Délkelet-Szerbia,2026-08-07T11:06:00+00:00,Serbia,0.4845139673210339,1,1,hu,MED,Europe
 '6b12d20119',extremes,Wildfire,#d60d2b,effis,wildfire fejér hungary,2026-08-07T11:06:00+00:00,Hungary,0.483068847925804,3,1,hu,WCE,Europe
+'32ace0520c',extremes,Storm,#b3b2b1,wmo,viharhullám michalovce,2026-08-07T09:56:00+00:00,Slovakia,0.4816930387090263,1,1,hu,WCE,Europe
+'2f30862216',extremes,Drought,#edc291,edo,szárazság Ausztria,2026-07-31T05:51:00+00:00,Austria,0.48114045647801196,1,1,hu,WCE,Europe
 '5cbd0f70b7',extremes,Heat Wave,#c40202,wmo,hőhullám Délkelet-Szerbia,2026-08-03T05:57:00+00:00,Serbia,0.4745484528060974,2,1,hu,MED,Europe
 '9891fcebe3',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-07-10T06:27:00+00:00,Slovakia,0.4732116343703526,2,1,hu,WCE,Europe
 '9e9e9c4928',extremes,Heat Wave,#c40202,wmo,hőhullám Közép-Magyarország,2026-07-16T05:25:00+00:00,Hungary,0.4669489720742772,4,1,hu,WCE,Europe
