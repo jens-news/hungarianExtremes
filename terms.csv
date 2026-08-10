@@ -1,12 +1,11 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'e4d5bf1603',extremes,Drought,#edc291,edo,drought hungary,2026-07-30T05:24:00+00:00,Hungary,0.7388516140043754,0,1,hu,WCE,Europe
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-08-01T05:42:00+00:00,Slovakia,0.7044618515136368,8,2,hu,WCE,Europe
-'64058b2dc1',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-08-02T05:42:00+00:00,Hungary,0.6837304917668966,1,2,hu,WCE,Europe
 '9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.6548167311044297,2,2,hu,WCE,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,wmo,hőhullám magyarország,2026-08-04T05:32:00+00:00,Hungary,0.6380586956155461,2,1,hu,WCE,Europe
 '1a25356eb6',extremes,Storm,#b3b2b1,wmo,vihar montenegró,2026-07-27T06:05:00+00:00,Montenegro,0.6306492386809671,3,1,hu,MED,Europe
+'e4d5bf1603',extremes,Drought,#edc291,edo,drought hungary,2026-07-30T05:24:00+00:00,Hungary,0.6280238719037191,1,1,hu,WCE,Europe
 '5164a4efdc',extremes,Storm,#b3b2b1,wmo,vihar észak-magyarországi,2026-08-07T09:56:00+00:00,Hungary,0.6224980012549199,2,2,hu,WCE,Europe
-'4d5705c676',extremes,Drought,#edc291,edo,eső hiánya Ausztria,2026-07-29T05:38:00+00:00,Austria,0.6056230354940748,0,1,hu,WCE,Europe
+'64058b2dc1',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-08-02T05:42:00+00:00,Hungary,0.581171383001862,2,1,hu,WCE,Europe
 '8bbcf20888',extremes,Drought,#edc291,edo,szárazság románia,2026-07-29T05:38:00+00:00,Romania,0.5666768668792717,0,1,hu,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,zivatar austria,2026-07-31T05:51:00+00:00,Austria,0.5463278462250208,0,1,hu,WCE,Europe
 'a665c262d9',extremes,Wildfire,#d60d2b,effis,futótűz n.a. Ukrajna,2026-08-07T09:56:00+00:00,Ukraine,0.5192353504880833,0,1,hu,WCE,Europe
@@ -15,6 +14,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '6279570d0c',extremes,Storm,#b3b2b1,wmo,vihar dolný kubín,2026-08-06T05:33:00+00:00,Slovakia,0.5186096928501778,0,1,hu,WCE,Europe
 'c0ee8e77d2',extremes,Storm,#b3b2b1,wmo,vihar trenčín,2026-08-06T05:33:00+00:00,Slovakia,0.5182396634915095,0,1,hu,WCE,Europe
 'df162e4370',extremes,Storm,#b3b2b1,wmo,viharhullám košice,2026-08-07T04:37:00+00:00,Slovakia,0.5163580025803095,0,1,hu,WCE,Europe
+'4d5705c676',extremes,Drought,#edc291,edo,eső hiánya Ausztria,2026-07-29T05:38:00+00:00,Austria,0.5149295951699636,1,1,hu,WCE,Europe
 'be6a55ce29',extremes,Wildfire,#d60d2b,effis,bushfire црна гора montenegró,2026-08-07T11:06:00+00:00,Montenegro,0.5146056643210632,2,1,hu,MED,Europe
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,bushfire caraş severin románia,2026-08-07T09:56:00+00:00,Romania,0.5146056550880297,2,1,hu,WCE,Europe
 '3f3e4a1622',extremes,Wildfire,#d60d2b,effis,wild fire рашка област szerbia,2026-08-07T11:06:00+00:00,Serbia,0.5146056522098684,2,1,hu,MED,Europe
