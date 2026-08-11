@@ -1,7 +1,6 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-08-01T05:42:00+00:00,Slovakia,0.7044618515136368,8,2,hu,WCE,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-08-03T05:58:00+00:00,Hungary,0.6867484942164493,1,2,hu,WCE,Europe
-'66fed82b61',extremes,Heat Wave,#c40202,wmo,hőhullám szerbia,2026-07-31T05:51:00+00:00,Serbia,0.6561666741657713,0,1,hu,MED,Europe
 '9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.6548167311044297,2,2,hu,WCE,Europe
 'b952a04ffe',extremes,Heat Wave,#c40202,meteo,magas hőmérsékletű szlovákia,2026-08-09T03:59:00+00:00,Slovakia,0.6407478941089514,0,1,hu,WCE,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,wmo,hőhullám magyarország,2026-08-04T05:32:00+00:00,Hungary,0.6380586956155461,2,1,hu,WCE,Europe
@@ -16,6 +15,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '438d7996c0',extremes,Wildfire,#d60d2b,effis,vad tűz românia caraş severin zăvoi,2026-08-11T04:01:00+00:00,Romania,0.5923481916130442,0,1,hu,WCE,Europe
 '4d5705c676',extremes,Drought,#edc291,edo,eső hiánya Ausztria,2026-07-29T05:38:00+00:00,Austria,0.587840170894469,2,2,hu,WCE,Europe
 '64058b2dc1',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-08-02T05:42:00+00:00,Hungary,0.581171383001862,2,1,hu,WCE,Europe
+'66fed82b61',extremes,Heat Wave,#c40202,wmo,hőhullám szerbia,2026-07-31T05:51:00+00:00,Serbia,0.5578916880409056,1,1,hu,MED,Europe
 'e4d5bf1603',extremes,Drought,#edc291,edo,drought hungary,2026-07-30T05:24:00+00:00,Hungary,0.5338202911181612,2,1,hu,WCE,Europe
 'be6a55ce29',extremes,Wildfire,#d60d2b,effis,bushfire црна гора montenegró,2026-08-07T11:06:00+00:00,Montenegro,0.5146056643210632,2,1,hu,MED,Europe
 'eec56caa4e',extremes,Wildfire,#d60d2b,effis,bushfire caraş severin románia,2026-08-07T09:56:00+00:00,Romania,0.5146056550880297,2,1,hu,WCE,Europe
