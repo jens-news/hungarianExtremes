@@ -1,12 +1,9 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 'bae4bee887',extremes,Storm,#b3b2b1,wmo,vihar szerbia,2026-08-06T05:33:00+00:00,Serbia,0.7525031765044099,2,2,hu,MED,Europe
-'ae2b0c9381',extremes,Heat Wave,#c40202,wmo,hőhullám dél-dunántúl,2026-08-06T05:33:00+00:00,Hungary,0.6935987589817454,0,1,hu,WCE,Europe
-'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-08-17T03:28:00+00:00,Hungary,0.6617202990584845,0,1,hu,WCE,Europe
-'930e581d4b',extremes,Heat Wave,#c40202,wmo,hőhullám nyugati Dunántúl,2026-08-10T04:14:00+00:00,Hungary,0.6568786062831811,0,1,hu,WCE,Europe
-'b977b005b8',extremes,Heat Wave,#c40202,wmo,hőhullám románia,2026-08-06T05:33:00+00:00,Romania,0.6565603452893685,0,1,hu,WCE,Europe
 '0f50f15ab2',extremes,Storm,#b3b2b1,wmo,viharhullám szerbia,2026-08-07T04:37:00+00:00,Serbia,0.651463242200382,0,1,hu,MED,Europe
 'aaa1e96cc2',extremes,Thunderstorm,#53785a,wmo,zivatar szerbia,2026-08-07T09:56:00+00:00,Serbia,0.6426651096122601,0,1,hu,MED,Europe
 '2d69920e03',extremes,Heat Wave,#c40202,wmo,hőhullám magyarország,2026-08-04T05:32:00+00:00,Hungary,0.6380586956155461,2,1,hu,WCE,Europe
+'b977b005b8',extremes,Heat Wave,#c40202,wmo,hőhullám románia,2026-08-06T05:33:00+00:00,Romania,0.6333763234959632,1,2,hu,WCE,Europe
 '1a25356eb6',extremes,Storm,#b3b2b1,wmo,vihar montenegró,2026-07-27T06:05:00+00:00,Montenegro,0.6306492386809671,3,1,hu,MED,Europe
 '1bcfe229f4',extremes,Wildfire,#d60d2b,effis,bushfire magyarország borsod abaúj zemplén arló,2026-08-17T03:28:00+00:00,Hungary,0.6294015510629983,0,1,hu,WCE,Europe
 '6bd374849a',extremes,Thunderstorm,#53785a,wmo,zivatar délnyugat-szerbia,2026-08-07T04:37:00+00:00,Serbia,0.6282323692581395,0,1,hu,MED,Europe
@@ -15,6 +12,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '226d2b63fe',extremes,Heat Wave,#c40202,wmo,hőhullám Trnava,2026-08-06T05:33:00+00:00,Slovakia,0.6182403975328656,0,1,hu,WCE,Europe
 '7072139b34',extremes,Wildfire,#d60d2b,effis,wildfire magyarország borsod abaúj zemplén ózd,2026-08-15T03:13:00+00:00,Hungary,0.6114924857673748,0,1,hu,WCE,Europe
 '28bea0d324',extremes,Heat Wave,#c40202,wmo,hőhullám martin,2026-08-01T05:42:00+00:00,Slovakia,0.5987925737865913,9,1,hu,WCE,Europe
+'ae2b0c9381',extremes,Heat Wave,#c40202,wmo,hőhullám dél-dunántúl,2026-08-06T05:33:00+00:00,Hungary,0.5895589451344836,1,1,hu,WCE,Europe
 '9891fcebe3',extremes,Drought,#edc291,edo,szárazság Szlovákia,2026-08-02T05:42:00+00:00,Slovakia,0.5889227629017344,2,2,hu,WCE,Europe
 '9fe9c5a7ac',extremes,Wildfire,#d60d2b,effis,wildfire mehedinţi romania,2026-08-15T03:13:00+00:00,Romania,0.5827979053416875,1,1,hu,MED,Europe
 'd54bd4b7da',extremes,Wildfire,#d60d2b,effis,vad tűz браничевска област szerbia,2026-08-13T04:26:00+00:00,Serbia,0.5806245798312646,1,1,hu,MED,Europe
@@ -25,10 +23,12 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '9bf1dea834',extremes,Wildfire,#d60d2b,effis,vadtűz srbija сpбија браничевска област veliko gradište,2026-08-15T03:13:00+00:00,Serbia,0.5710520229405053,1,1,hu,MED,Europe
 '35a351e415',extremes,Wildfire,#d60d2b,effis,bushfire srbija сpбија браничевска област požarevac,2026-08-15T03:13:00+00:00,Serbia,0.5709321845756404,1,1,hu,MED,Europe
 '20516962cd',extremes,Thunderstorm,#53785a,wmo,jégeső szerbia,2026-08-06T05:33:00+00:00,Serbia,0.5634474151393644,1,1,hu,MED,Europe
+'b7b030d1f8',extremes,Storm,#b3b2b1,wmo,viharhullám Közép-Magyarország,2026-08-17T03:28:00+00:00,Hungary,0.5624622541997119,1,1,hu,WCE,Europe
 '6cf0d34fac',extremes,Thunderstorm,#53785a,wmo,szélsőséges időjárás Szerbia,2026-08-06T05:33:00+00:00,Serbia,0.5623496629434053,1,1,hu,MED,Europe
 '0ab5ac5913',extremes,Thunderstorm,#53785a,wmo,thunderstorm hungary,2026-08-03T05:57:00+00:00,Hungary,0.5621523375295306,2,1,hu,WCE,Europe
 'c1b1450575',extremes,Drought,#edc291,edo,szárazság Magyarország,2026-08-03T05:58:00+00:00,Hungary,0.5601070178441119,3,2,hu,WCE,Europe
 'ea9f850d2c',extremes,Wildfire,#d60d2b,effis,bushfire magyarország borsod abaúj zemplén kázsmárk,2026-08-16T03:28:00+00:00,Hungary,0.5591974092233106,1,1,hu,WCE,Europe
+'930e581d4b',extremes,Heat Wave,#c40202,wmo,hőhullám nyugati Dunántúl,2026-08-10T04:14:00+00:00,Hungary,0.5583468153407039,1,1,hu,WCE,Europe
 '9d604daa15',extremes,Heat Wave,#c40202,meteo,magas hőmérséklet Magyarország,2026-08-07T11:06:00+00:00,Hungary,0.5567442364387652,3,2,hu,WCE,Europe
 'b350b1fa4c',extremes,Drought,#edc291,edo,szárazság románia,2026-08-01T05:42:00+00:00,Romania,0.5545026620101328,2,2,hu,WCE,Europe
 'ae3e376a77',extremes,Heat Wave,#c40202,wmo,hőhullám galanta,2026-08-03T05:57:00+00:00,Slovakia,0.5451899848012469,1,1,hu,WCE,Europe
